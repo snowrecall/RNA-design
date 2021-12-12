@@ -1,0 +1,300 @@
+B/B	anti	trans
+W/W	anti	cis
+1
+B/H	anti	trans
+H/W	anti	trans
+1
+B/S	anti	cis
+S/B	anti	cis
+1
+B/S	anti	cis
+S/S	anti	cis
+1
+B/S	anti	trans
+W/W	anti	cis
+1
+B/S	para	trans
+W/W	anti	cis
+5
+B/W	anti	cis
+S/H	anti	trans
+1
+B/W	anti	cis
+S/W	para	trans
+1
+B/W	anti	cis
+W/W	anti	cis
+5
+B/W	anti	trans
+W/W	anti	cis
+4
+B/W	para	cis
+W/W	anti	cis
+1
+H/B	anti	trans
+H/B	anti	trans
+1
+H/B	anti	trans
+W/W	anti	cis
+1
+H/C	para	trans
+H/W	anti	trans
+2
+H/H	para	trans
+H/B	anti	trans
+1
+H/H	para	trans
+H/S	anti	trans
+7
+H/H	para	trans
+W/H	anti	trans
+1
+H/H	para	trans
+W/W	anti	cis
+2
+H/H	para	trans
+W/W	para	trans
+2
+H/S	anti	trans
+B/W	anti	cis
+1
+H/S	anti	trans
+S/H	anti	trans
+1
+H/S	anti	trans
+H/S	anti	trans
+4
+H/S	anti	trans
+W/W	anti	cis
+105
+H/W	anti	cis
+W/B	anti	trans
+1
+H/W	anti	cis
+W/W	anti	cis
+1
+H/W	anti	trans
+B/W	anti	cis
+1
+H/W	anti	trans
+B/W	anti	trans
+4
+H/W	anti	trans
+H/S	anti	trans
+6
+H/W	anti	trans
+H/W	anti	cis
+1
+H/W	anti	trans
+H/W	anti	trans
+12
+H/W	anti	trans
+W/W	anti	cis
+6
+H/W	para	cis
+W/W	anti	cis
+2
+S/H	anti	trans
+H/H	para	trans
+21
+S/H	anti	trans
+H/S	anti	trans
+27
+S/H	anti	trans
+H/W	anti	trans
+18
+S/H	anti	trans
+S/H	anti	trans
+6
+S/H	anti	trans
+W/H	anti	trans
+4
+S/H	anti	trans
+W/S	anti	cis
+1
+S/H	anti	trans
+W/S	anti	trans
+2
+S/H	anti	trans
+W/W	anti	cis
+1
+S/H	anti	trans
+W/W	anti	trans
+3
+S/W	anti	cis
+H/S	anti	trans
+1
+S/W	anti	cis
+S/H	anti	trans
+2
+S/W	anti	cis
+S/W	anti	cis
+1
+S/W	anti	cis
+W/H	para	cis
+1
+S/W	para	trans
+S/S	para	trans
+1
+W/B	anti	cis
+S/H	anti	trans
+1
+W/B	anti	cis
+W/B	anti	cis
+1
+W/B	anti	cis
+W/W	anti	cis
+2
+W/B	anti	trans
+S/H	anti	trans
+1
+W/B	anti	trans
+W/H	anti	trans
+6
+W/B	anti	trans
+W/W	anti	cis
+1
+W/H	anti	cis
+W/H	anti	trans
+1
+W/H	anti	trans
+H/H	para	trans
+1
+W/H	anti	trans
+H/S	anti	trans
+36
+W/H	anti	trans
+H/W	anti	trans
+6
+W/H	anti	trans
+S/H	anti	trans
+2
+W/H	anti	trans
+W/H	anti	trans
+10
+W/H	anti	trans
+W/W	anti	cis
+1
+W/H	para	cis
+S/W	anti	cis
+1
+W/H	para	cis
+W/W	anti	cis
+9
+W/S	anti	cis
+W/S	anti	cis
+3
+W/S	anti	cis
+W/S	anti	trans
+2
+W/S	anti	cis
+W/W	anti	cis
+3
+W/S	anti	trans
+W/W	anti	cis
+1
+W/W	anti	cis
+B/H	anti	trans
+4
+W/W	anti	cis
+B/W	anti	cis
+8
+W/W	anti	cis
+B/W	anti	trans
+2
+W/W	anti	cis
+B/W	para	cis
+1
+W/W	anti	cis
+B/W	para	trans
+16
+W/W	anti	cis
+H/H	anti	cis
+1
+W/W	anti	cis
+H/H	para	trans
+2
+W/W	anti	cis
+H/S	anti	trans
+1
+W/W	anti	cis
+H/W	anti	trans
+2
+W/W	anti	cis
+H/W	para	cis
+3
+W/W	anti	cis
+S/H	anti	cis
+1
+W/W	anti	cis
+S/H	anti	trans
+197
+W/W	anti	cis
+S/S	para	trans
+1
+W/W	anti	cis
+S/W	anti	cis
+2
+W/W	anti	cis
+S/W	anti	trans
+3
+W/W	anti	cis
+S/W	para	trans
+3
+W/W	anti	cis
+W/B	anti	cis
+9
+W/W	anti	cis
+W/B	anti	trans
+6
+W/W	anti	cis
+W/B	para	cis
+1
+W/W	anti	cis
+W/H	anti	cis
+2
+W/W	anti	cis
+W/H	anti	trans
+17
+W/W	anti	cis
+W/H	para	cis
+5
+W/W	anti	cis
+W/S	anti	cis
+5
+W/W	anti	cis
+W/S	anti	trans
+5
+W/W	anti	cis
+W/W	anti	cis
+4499
+W/W	anti	cis
+W/W	anti	trans
+5
+W/W	anti	cis
+W/W	para	cis
+4
+W/W	anti	cis
+W/W	para	trans
+19
+W/W	anti	trans
+S/H	anti	trans
+1
+W/W	anti	trans
+W/W	anti	cis
+2
+W/W	para	cis
+W/W	anti	cis
+4
+W/W	para	trans
+H/H	para	trans
+1
+W/W	para	trans
+W/H	para	cis
+1
+W/W	para	trans
+W/S	para	trans
+1
+W/W	para	trans
+W/W	anti	cis
+8

@@ -1,0 +1,22 @@
+####generate sequences for MC-Fold####
+
+python step11_5bp267_add_2bp.py > 5bp267_add2bp_all_possible.txt (##Exhausted all possibilities when inserting a strong base pair (GC,CG,AU,UA,GU or UG) to the upper stem region of T1-add1bp.##)
+
+python step12_get_the_sequence_has_different_barcode_environment.py > 5bp267_add2bp_all_possible_diff_barcode.txt (##Each nucleotide in the 7-bp stem is located in the center of a BP-triplet different from all other nucleotides.##)
+
+####operate MC-Fold Results####
+
+mkdir run_mcfold
+
+cp 5bp267_add2bp_all_possible_diff_barcode.txt run_mcfold
+
+./step2_run_mcfold.sh
+
+./step3_get_operate_file.sh (##The best 100-suboptimal MC-Fold solutions for each candidate RNA.##)
+
+./step_new_41_get_our_structures_and_deltaG.sh
+
+./step_new_42_to_run.sh > step_new_42_to_run.out (##The free energy difference between ground state and predefined excited state.##)
+
+python step_new_43_sort.py (##The qualified RNA sequences were sorted in ascending order of the free energy differences.##)(##The final output file is step_new_43_sort.out.##)
+

@@ -1,0 +1,27 @@
+####generate sequences for MC-Fold####
+
+python step11_consider_new_generate_RNA_sequence_like_P5c.py > 31104_like_p5c_groud_state.txt (##All possible sequences for the 5-bp upper stem were generated.##)
+
+python step12_get_the_sequence_has_different_barcode_environment.py > 29040_different_barcode.out (##Each nucleotide in the 5-bp upper stem is located in the center of a BP-triplet different from all other nucleotides.##)
+
+
+python step13_remove_seqs_number_of_strong_bp_is_larger_than_4.py > 2802_mcfold_input_sequence.txt (##Upon two-nucleotide shift in register of the stem, the newly formed base pairs should be at least 4 strong base pairs and all pairs were extracted only from either strong or weak base pair pool.##) 
+
+python step14_GCtoGU_or_UAtoUG_add_GCtoGGorGA_or_UAtoUU_larger_than3.py > 411_mcfold_input_sequence_new.txt (## The number of residues for which the dynamics can be detected by NMR RD experiments must be >= 3 and at least one of the residue undergo GC->GU or UA->UG switch.##)
+
+####operate MC-Fold Results####
+
+mkdir run_mcfold/
+
+cp 411_mcfold_input_sequence_new.txt run_mcfold/
+
+./step2_run_mcfold.sh
+
+./step3_get_operate_file.sh (##The best 100-suboptimal MC-Fold solutions for each candidate RNA.##)
+
+./step_new_41_get_our_structures_and_deltaG.sh
+
+./step_new_42_to_run.sh > step_new_42_to_run.out (##The free energy difference between ground state and predefined excited state.##)
+
+python step_new_43_sort.py (##The qualified RNA sequences were sorted in ascending order of the free energy differences.##)(##The final output file is step_new_43_sort.out.##)(##The 12 negative examples of T3 RNA presented at Fig. S12a are from different design strategies and screening conditions. The seq232, seq297, seq320 corresponding to the upper hairpins of T3-C10, T3-C11 and T3-C12 are from the same design strategy and filtering condition as the final T3 RNA upper hairpin.##)
+

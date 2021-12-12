@@ -1,0 +1,63 @@
+####generate sequences for MC-Fold####
+
+python consider_new_generate_RNA_sequence_like_P5c.py > 7776_like_P5c_ground_state_seq_cononical_bp.txt (##All possible sequences for the 5-bp stem were generated.##)
+
+python get_the_sequence_has_different_barcode_environment.py 7776_like_P5c_ground_state_seq_cononical_bp.txt > 7260_different_barcode.out (##Each nucleotide in the 5-bp stem is located in the center of a BP-triplet different from all other nucleotides.##)
+
+python filter_sequence_not_have_4_cononical_1_noncononical_bp.py 7260_different_barcode.out > 788_mcfold_input_sequence.txt (##Upon one-nucleotide shift in register, the newly generated base pairs should be at least 4 strong base pairs and all pairs were extracted only from either strong or weak base pair pool.##)
+
+sed -i 's/^/G/g' 788_mcfold_input_sequence.txt
+
+sed -i 's/$/A/g' 788_mcfold_input_sequence.txt
+
+cp 788_mcfold_input_sequence.txt mcfold_input_sequence_head_add_G_tail_add_A.txt
+
+####run MC-Fold####
+
+mkdir run_mcfold
+
+cp mcfold_input_sequence_head_add_G_tail_add_A.txt run_mcfold
+
+cd run_mcfold
+
+./step2_run_mcfold.sh
+
+####operate MC-Fold Results####
+
+mkdir set_all_Mcfold_2D_result_G_less_than_3
+
+cd set_all_Mcfold_2D_result_G_less_than_3
+
+cp ../seq*_P5c.data  .
+
+./step1_get_operate_file.sh (##The best 100-suboptimal MC-Fold solutions for each candidate RNA.##)
+
+./step3_get_the_energy_smaller_than_3.sh (##Secondary structures for each RNA as the free energy difference between the ground state and the excited state is smaller than 3 kcal/mol.##)
+
+sed -i 's/  / /g'  step2_3.out
+
+python step4_set_2d_info.py |sort -k3 -n > origin_all_situation_analyze.txt
+
+cp origin_all_situation_analyze.txt  all_situation_analyze_delete_some_2D.txt
+
+grep -v '#' all_situation_analyze_delete_some_2D.txt > considerable_2D_structure.txt
+
+cp considerable_2D_structure.txt new_new_considerable_2D_structure.txt
+
+./step6_run_step5.sh
+
+./step8_get_the_energy_smaller_than_3_for_each_sequence.sh
+
+./step10_run_step9.sh
+
+####select T1-short from the left 33 RNA sequences####
+
+mkdir select_the_sample
+
+cp all_the_788_seq_have_the_2d_types_deltaG_form.txt  select_the_sample/
+
+cd select_the_sample/
+
+./step11_select_the_sample.py | grep -v 'UUUUU' | grep -v 'AAAAA' | grep -v 'GGGGG' | grep -v 'CCCCC' | grep -v 'UUUU' | grep -v 'GGGG' | grep -v 'AAAA' >33_selected_seq.txt (##There were no more than 3 consecutive identical bases in the candidate sequences.##)
+
+./step12_sort_33_accord_to_deltaG.sh (##The qualified RNA sequences were sorted in ascending order of the free energy differences.##)(##The final output file is step12_new_sort.out.##)

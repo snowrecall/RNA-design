@@ -1,0 +1,6 @@
+
+1. python step1_5bp267_add_2bp.py | sort | uniq >5bp267_add2bp_all_possible.txt
+
+2. ./step2_get_the_sequence_has_different_barcode_environment.py >5bp267_add2bp_all_possible_diff_barcode.txt
+
+3. ./step4_run_mcfold.sh

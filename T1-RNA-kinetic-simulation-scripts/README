@@ -1,0 +1,11 @@
+python step1-calcuk+k-f.py （##Convert the activation energies to the exchange rates for each step of T1 RNA.##）
+
+python step2-hg-scheme-ES.py > T-ES.txt  (##The time-dependent T1 RNA ES population obtained from the kinetic differential equation.##)
+
+python step2-hg-scheme-GS.py > T-GS.txt  (##The time-dependent T1 RNA GS population obtained from the kinetic differential equation.##)
+
+python step3-fitES.py (##The expotential fitting result of the time-dependent T1 ES population curve.##)
+
+python step3-fitGS.py (##The exponential fittinf result of the time-dependent T1 GS population curve.##) 
+
+python step4-kakb2energy.py （##Convert the apparent exchange rates to the apparent activation energies of T1 RNA.##）

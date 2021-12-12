@@ -1,0 +1,17 @@
+16   dG =  -12.60 (MC-Fold) seq100
+ 1 G  0  2 16  1  G=A S/H anti trans S/H anti trans  88.9 W/W anti cis  11
+ 2 U  1  3 15  2  U=A W/W anti cis W/W anti cis  99.8
+ 3 U  2  4 14  3  U=G W/W anti cis W/W anti cis  99.9
+ 4 C  3  5 13  4  C=G W/W anti cis W/W anti cis  100
+ 5 U  4  6 12  5  U=G W/W anti cis W/W anti cis  99.9
+ 6 U  5  7 11  6  U=G W/W anti cis W/W anti cis  99.9
+ 7 G  6  8 10  7  G=A S/H anti trans S/H anti trans  100
+ 8 C  7  9  0  8  
+ 9 A  8 10  0  9  
+10 A  9 11  7 10  
+11 G 10 12  6 11  
+12 G 11 13  5 12  
+13 G 12 14  4 13  
+14 G 13 15  3 14  
+15 A 14 16  2 15  
+16 A 15 17  1 16  

@@ -1,0 +1,1217 @@
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A15R:C  0
+    1  A31R:C  0
+    2  A32R:A  0
+[Edges]
+    0  {A15R:C -> A31R:C: pairing antiparallel cis one_hbond 131 Wh/Ww }  0
+    1  {A31R:C -> A15R:C: pairing antiparallel cis one_hbond 131 Ww/Wh }  0
+    2  {A15R:C -> A32R:A: pairing antiparallel trans one_hbond 77 Ss/Hw }  0
+    3  {A32R:A -> A15R:C: pairing antiparallel trans one_hbond 77 Hw/Ss }  0
+    4  {A31R:C -> A32R:A: adjacent_5p }  0
+    5  {A32R:A -> A31R:C: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A10R:G  0
+    1  B9R:A  0
+    2  B10R:C  0
+[Edges]
+    0  {A10R:G -> B9R:A: pairing antiparallel cis one_hbond 67 Wh/Hw }  0
+    1  {B9R:A -> A10R:G: pairing antiparallel cis one_hbond 67 Hw/Wh }  0
+    2  {A10R:G -> B10R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    3  {B10R:C -> A10R:G: pairing antiparallel cis XIX Ww/Ww }  0
+    4  {B9R:A -> B10R:C: adjacent_5p upward }  0
+    5  {B10R:C -> B9R:A: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  B8R:G  0
+    1  B10R:C  0
+    2  B11R:G  0
+[Edges]
+    0  {B8R:G -> B10R:C: pairing antiparallel trans one_hbond Ss/Hh }  0
+    1  {B10R:C -> B8R:G: pairing antiparallel trans one_hbond Hh/Ss }  0
+    2  {B8R:G -> B11R:G: pairing antiparallel trans one_hbond 108 Sw/Hh }  0
+    3  {B11R:G -> B8R:G: pairing antiparallel trans one_hbond 108 Hh/Sw }  0
+    4  {B10R:C -> B11R:G: adjacent_5p upward }  0
+    5  {B11R:G -> B10R:C: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  B205R:A  0
+    1  B214R:U  0
+    2  B215R:A  0
+[Edges]
+    0  {B205R:A -> B214R:U: pairing antiparallel trans one_hbond 46 Wh/Ws }  0
+    1  {B214R:U -> B205R:A: pairing antiparallel trans one_hbond 46 Ws/Wh }  0
+    2  {B205R:A -> B215R:A: pairing antiparallel cis one_hbond 37 Ww/Wh }  0
+    3  {B215R:A -> B205R:A: pairing antiparallel cis one_hbond 37 Wh/Ww }  0
+    4  {B214R:U -> B215R:A: adjacent_5p pairing parallel cis one_hbond Ss/Hw }  0
+    5  {B215R:A -> B214R:U: adjacent_3p pairing parallel cis one_hbond Hw/Ss }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A2104R:C  0
+    1  A2485R:A  0
+    2  A2486R:A  0
+[Edges]
+    0  {A2104R:C -> A2485R:A: pairing antiparallel cis one_hbond 75 Ww/Wh }  0
+    1  {A2485R:A -> A2104R:C: pairing antiparallel cis one_hbond 75 Wh/Ww }  0
+    2  {A2104R:C -> A2486R:A: pairing antiparallel cis one_hbond Ws/Bs }  0
+    3  {A2486R:A -> A2104R:C: pairing antiparallel cis one_hbond Bs/Ws }  0
+    4  {A2485R:A -> A2486R:A: adjacent_5p upward }  0
+    5  {A2486R:A -> A2485R:A: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A2462R:G  0
+    1  A2427R:C  0
+    2  A2428R:G  0
+[Edges]
+    0  {A2427R:C -> A2428R:G: adjacent_5p }  0
+    1  {A2428R:G -> A2427R:C: adjacent_3p }  0
+    2  {A2427R:C -> A2462R:G: pairing parallel cis one_hbond Wh/Hw }  0
+    3  {A2462R:G -> A2427R:C: pairing parallel cis one_hbond Hw/Wh }  0
+    4  {A2428R:G -> A2462R:G: pairing parallel trans one_hbond Hw/C8 }  0
+    5  {A2462R:G -> A2428R:G: pairing parallel trans one_hbond C8/Hw }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  A2652R:U  0
+    1  A2092R:G  0
+    2  A2093R:G  0
+[Edges]
+    0  {A2092R:G -> A2093R:G: adjacent_5p pairing parallel cis one_hbond Sw/Hw }  0
+    1  {A2093R:G -> A2092R:G: adjacent_3p pairing parallel cis one_hbond Hw/Sw }  0
+    2  {A2092R:G -> A2652R:U: pairing antiparallel cis one_hbond 94 Ws/Wh }  0
+    3  {A2652R:U -> A2092R:G: pairing antiparallel cis one_hbond 94 Wh/Ws }  0
+    4  {A2093R:G -> A2652R:U: pairing antiparallel cis XXVIII Ww/Ws }  0
+    5  {A2652R:U -> A2093R:G: pairing antiparallel cis XXVIII Ws/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  9R:G  0
+    1  31R:C  0
+    2  32R:G  0
+[Edges]
+    0  {9R:G -> 31R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    1  {31R:C -> 9R:G: pairing antiparallel cis XIX Ww/Ww }  0
+    2  {9R:G -> 32R:G: pairing antiparallel trans 34 Bs/Hh }  0
+    3  {32R:G -> 9R:G: pairing antiparallel trans 34 Hh/Bs }  0
+    4  {31R:C -> 32R:G: adjacent_5p }  0
+    5  {32R:G -> 31R:C: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A12R:G  0
+    1  A4R:C  0
+    2  A5R:C  0
+[Edges]
+    0  {A4R:C -> A5R:C: adjacent_5p upward }  0
+    1  {A5R:C -> A4R:C: adjacent_3p downward }  0
+    2  {A4R:C -> A12R:G: pairing antiparallel cis one_hbond Wh/Wh }  0
+    3  {A12R:G -> A4R:C: pairing antiparallel cis one_hbond Wh/Wh }  0
+    4  {A5R:C -> A12R:G: pairing antiparallel cis Ww/Ww }  0
+    5  {A12R:G -> A5R:C: pairing antiparallel cis Ww/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A5R:U  0
+    1  B5R:A  0
+    2  B6R:A  0
+[Edges]
+    0  {A5R:U -> B5R:A: pairing antiparallel cis one_hbond Wh/Wh }  0
+    1  {B5R:A -> A5R:U: pairing antiparallel cis one_hbond Wh/Wh }  0
+    2  {A5R:U -> B6R:A: pairing antiparallel cis Ws/Ww }  0
+    3  {B6R:A -> A5R:U: pairing antiparallel cis Ww/Ws }  0
+    4  {B5R:A -> B6R:A: adjacent_5p upward }  0
+    5  {B6R:A -> B5R:A: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  B22R:A  0
+    1  B60R:U  0
+    2  B61R:U  0
+[Edges]
+    0  {B22R:A -> B60R:U: pairing antiparallel trans XXIV Hh/Ww }  0
+    1  {B60R:U -> B22R:A: pairing antiparallel trans XXIV Ww/Hh }  0
+    2  {B22R:A -> B61R:U: pairing antiparallel trans one_hbond 46 Wh/Ws }  0
+    3  {B61R:U -> B22R:A: pairing antiparallel trans one_hbond 46 Ws/Wh }  0
+    4  {B60R:U -> B61R:U: adjacent_5p }  0
+    5  {B61R:U -> B60R:U: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  B61R:U  0
+    1  B22R:A  0
+    2  B23R:A  0
+[Edges]
+    0  {B22R:A -> B23R:A: adjacent_5p upward }  0
+    1  {B23R:A -> B22R:A: adjacent_3p downward }  0
+    2  {B22R:A -> B61R:U: pairing antiparallel trans one_hbond 46 Wh/Ws }  0
+    3  {B61R:U -> B22R:A: pairing antiparallel trans one_hbond 46 Ws/Wh }  0
+    4  {B23R:A -> B61R:U: pairing antiparallel cis one_hbond Ww/Ww }  0
+    5  {B61R:U -> B23R:A: pairing antiparallel cis one_hbond Ww/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  E22R:A  0
+    1  E60R:U  0
+    2  E61R:U  0
+[Edges]
+    0  {E22R:A -> E60R:U: pairing antiparallel trans XXIV Hh/Ww }  0
+    1  {E60R:U -> E22R:A: pairing antiparallel trans XXIV Ww/Hh }  0
+    2  {E22R:A -> E61R:U: pairing antiparallel trans one_hbond 46 Wh/Ws }  0
+    3  {E61R:U -> E22R:A: pairing antiparallel trans one_hbond 46 Ws/Wh }  0
+    4  {E60R:U -> E61R:U: adjacent_5p }  0
+    5  {E61R:U -> E60R:U: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  E61R:U  0
+    1  E22R:A  0
+    2  E23R:A  0
+[Edges]
+    0  {E22R:A -> E23R:A: adjacent_5p upward }  0
+    1  {E23R:A -> E22R:A: adjacent_3p downward }  0
+    2  {E22R:A -> E61R:U: pairing antiparallel trans one_hbond 46 Wh/Ws }  0
+    3  {E61R:U -> E22R:A: pairing antiparallel trans one_hbond 46 Ws/Wh }  0
+    4  {E23R:A -> E61R:U: pairing antiparallel cis XX Ww/Ww }  0
+    5  {E61R:U -> E23R:A: pairing antiparallel cis XX Ww/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A14R:C  0
+    1  A25R:G  0
+    2  A26R:G  0
+[Edges]
+    0  {A14R:C -> A25R:G: pairing antiparallel cis XIX Ww/Ww }  0
+    1  {A25R:G -> A14R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    2  {A14R:C -> A26R:G: pairing antiparallel cis one_hbond 128 Ww/Bs }  0
+    3  {A26R:G -> A14R:C: pairing antiparallel cis one_hbond 128 Bs/Ww }  0
+    4  {A25R:G -> A26R:G: adjacent_5p upward }  0
+    5  {A26R:G -> A25R:G: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A26R:G  0
+    1  A13R:G  0
+    2  A14R:C  0
+[Edges]
+    0  {A13R:G -> A14R:C: adjacent_5p upward }  0
+    1  {A14R:C -> A13R:G: adjacent_3p downward }  0
+    2  {A13R:G -> A26R:G: pairing antiparallel trans one_hbond 112 Hw/Sw }  0
+    3  {A26R:G -> A13R:G: pairing antiparallel trans one_hbond 112 Sw/Hw }  0
+    4  {A14R:C -> A26R:G: pairing antiparallel cis one_hbond 128 Ww/Bs }  0
+    5  {A26R:G -> A14R:C: pairing antiparallel cis one_hbond 128 Bs/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A10R:U  0
+    1  A13R:G  0
+    2  A14R:G  0
+[Edges]
+    0  {A10R:U -> A13R:G: pairing parallel trans one_hbond Bs/Ww }  0
+    1  {A13R:G -> A10R:U: pairing parallel trans one_hbond Ww/Bs }  0
+    2  {A10R:U -> A14R:G: pairing antiparallel cis one_hbond Ww/Wh }  0
+    3  {A14R:G -> A10R:U: pairing antiparallel cis one_hbond Wh/Ww }  0
+    4  {A13R:G -> A14R:G: adjacent_5p }  0
+    5  {A14R:G -> A13R:G: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A14R:G  0
+    1  A9R:C  0
+    2  A10R:U  0
+[Edges]
+    0  {A9R:C -> A10R:U: adjacent_5p upward }  0
+    1  {A10R:U -> A9R:C: adjacent_3p downward }  0
+    2  {A9R:C -> A14R:G: pairing antiparallel cis XIX Ww/Ww }  0
+    3  {A14R:G -> A9R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    4  {A10R:U -> A14R:G: pairing antiparallel cis one_hbond Ww/Wh }  0
+    5  {A14R:G -> A10R:U: pairing antiparallel cis one_hbond Wh/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A10R:G  0
+    1  A13R:U  0
+    2  A14R:A  0
+[Edges]
+    0  {A10R:G -> A13R:U: pairing antiparallel cis one_hbond 85 Sw/Ws }  0
+    1  {A13R:U -> A10R:G: pairing antiparallel cis one_hbond 85 Ws/Sw }  0
+    2  {A10R:G -> A14R:A: pairing antiparallel trans XI Ss/Hh }  0
+    3  {A14R:A -> A10R:G: pairing antiparallel trans XI Hh/Ss }  0
+    4  {A13R:U -> A14R:A: adjacent_5p }  0
+    5  {A14R:A -> A13R:U: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A9R:G  0
+    1  A69R:C  0
+    2  A70R:C  0
+[Edges]
+    0  {A9R:G -> A69R:C: pairing antiparallel cis one_hbond Wh/Wh }  0
+    1  {A69R:C -> A9R:G: pairing antiparallel cis one_hbond Wh/Wh }  0
+    2  {A9R:G -> A70R:C: pairing antiparallel cis Ww/Ww }  0
+    3  {A70R:C -> A9R:G: pairing antiparallel cis Ww/Ww }  0
+    4  {A69R:C -> A70R:C: adjacent_5p upward }  0
+    5  {A70R:C -> A69R:C: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A69R:C  0
+    1  A9R:G  0
+    2  A10R:G  0
+[Edges]
+    0  {A9R:G -> A10R:G: adjacent_5p upward }  0
+    1  {A10R:G -> A9R:G: adjacent_3p downward }  0
+    2  {A9R:G -> A69R:C: pairing antiparallel cis one_hbond Wh/Wh }  0
+    3  {A69R:C -> A9R:G: pairing antiparallel cis one_hbond Wh/Wh }  0
+    4  {A10R:G -> A69R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    5  {A69R:C -> A10R:G: pairing antiparallel cis XIX Ww/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A8R:A  0
+    1  A26R:G  0
+    2  A27R:U  0
+[Edges]
+    0  {A8R:A -> A26R:G: pairing parallel trans one_hbond Hh/C8 }  0
+    1  {A26R:G -> A8R:A: pairing parallel trans one_hbond C8/Hh }  0
+    2  {A8R:A -> A27R:U: pairing antiparallel cis one_hbond Ww/Ww }  0
+    3  {A27R:U -> A8R:A: pairing antiparallel cis one_hbond Ww/Ww }  0
+    4  {A26R:G -> A27R:U: adjacent_5p }  0
+    5  {A27R:U -> A26R:G: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  B325R:A  0
+    1  B335R:U  0
+    2  B336R:U  0
+[Edges]
+    0  {B325R:A -> B335R:U: pairing antiparallel cis one_hbond Wh/Wh }  0
+    1  {B335R:U -> B325R:A: pairing antiparallel cis one_hbond Wh/Wh }  0
+    2  {B325R:A -> B336R:U: pairing antiparallel cis XX Ww/Ww }  0
+    3  {B336R:U -> B325R:A: pairing antiparallel cis XX Ww/Ww }  0
+    4  {B335R:U -> B336R:U: adjacent_5p upward }  0
+    5  {B336R:U -> B335R:U: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  B335R:U  0
+    1  B325R:A  0
+    2  B326R:A  0
+[Edges]
+    0  {B325R:A -> B326R:A: adjacent_5p upward }  0
+    1  {B326R:A -> B325R:A: adjacent_3p downward }  0
+    2  {B325R:A -> B335R:U: pairing antiparallel cis one_hbond Wh/Wh }  0
+    3  {B335R:U -> B325R:A: pairing antiparallel cis one_hbond Wh/Wh }  0
+    4  {B326R:A -> B335R:U: pairing antiparallel cis XX Ww/Ww }  0
+    5  {B335R:U -> B326R:A: pairing antiparallel cis XX Ww/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  13R:G  0
+    1  7R:C  0
+    2  8R:G  0
+[Edges]
+    0  {7R:C -> 8R:G: adjacent_5p }  0
+    1  {8R:G -> 7R:C: adjacent_3p }  0
+    2  {7R:C -> 13R:G: pairing antiparallel cis XIX Ww/Ww }  0
+    3  {13R:G -> 7R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    4  {8R:G -> 13R:G: pairing antiparallel trans one_hbond 112 Hw/Sw }  0
+    5  {13R:G -> 8R:G: pairing antiparallel trans one_hbond 112 Sw/Hw }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  C61R:C  0
+    1  C53R:G  0
+    2  C54R:U  0
+[Edges]
+    0  {C53R:G -> C54R:U: adjacent_5p upward }  0
+    1  {C54R:U -> C53R:G: adjacent_3p downward }  0
+    2  {C53R:G -> C61R:C: pairing antiparallel cis one_hbond Wh/Wh }  0
+    3  {C61R:C -> C53R:G: pairing antiparallel cis one_hbond Wh/Wh }  0
+    4  {C54R:U -> C61R:C: pairing antiparallel cis one_hbond 106 Ww/Ws }  0
+    5  {C61R:C -> C54R:U: pairing antiparallel cis one_hbond 106 Ws/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  D61R:C  0
+    1  D53R:G  0
+    2  D54R:U  0
+[Edges]
+    0  {D53R:G -> D54R:U: adjacent_5p upward }  0
+    1  {D54R:U -> D53R:G: adjacent_3p downward }  0
+    2  {D53R:G -> D61R:C: pairing antiparallel cis one_hbond Wh/Wh }  0
+    3  {D61R:C -> D53R:G: pairing antiparallel cis one_hbond Wh/Wh }  0
+    4  {D54R:U -> D61R:C: pairing antiparallel cis one_hbond 106 Ww/Ws }  0
+    5  {D61R:C -> D54R:U: pairing antiparallel cis one_hbond 106 Ws/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  '0'40R:C  0
+    1  '0'441R:A  0
+    2  '0'442R:A  0
+[Edges]
+    0  {'0'40R:C -> '0'441R:A: pairing antiparallel cis 71 Ww/Ww }  0
+    1  {'0'441R:A -> '0'40R:C: pairing antiparallel cis 71 Ww/Ww }  0
+    2  {'0'40R:C -> '0'442R:A: pairing antiparallel cis one_hbond 78 Ww/Wh }  0
+    3  {'0'442R:A -> '0'40R:C: pairing antiparallel cis one_hbond 78 Wh/Ww }  0
+    4  {'0'441R:A -> '0'442R:A: adjacent_5p pairing parallel cis one_hbond Ss/Hw }  0
+    5  {'0'442R:A -> '0'441R:A: adjacent_3p pairing parallel cis one_hbond Hw/Ss }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  '0'130R:C  0
+    1  '0'144R:A  0
+    2  '0'145R:A  0
+[Edges]
+    0  {'0'130R:C -> '0'144R:A: pairing antiparallel trans one_hbond Wh/Hh }  0
+    1  {'0'144R:A -> '0'130R:C: pairing antiparallel trans one_hbond Hh/Wh }  0
+    2  {'0'130R:C -> '0'145R:A: pairing antiparallel trans one_hbond Ws/Hw }  0
+    3  {'0'145R:A -> '0'130R:C: pairing antiparallel trans one_hbond Hw/Ws }  0
+    4  {'0'144R:A -> '0'145R:A: adjacent_5p upward }  0
+    5  {'0'145R:A -> '0'144R:A: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  '0'408R:A  0
+    1  '0'429R:A  0
+    2  '0'430R:A  0
+[Edges]
+    0  {'0'408R:A -> '0'429R:A: pairing parallel cis one_hbond Ww/Wh }  0
+    1  {'0'429R:A -> '0'408R:A: pairing parallel cis one_hbond Wh/Ww }  0
+    2  {'0'408R:A -> '0'430R:A: pairing parallel trans one_hbond Wh/Ww }  0
+    3  {'0'430R:A -> '0'408R:A: pairing parallel trans one_hbond Ww/Wh }  0
+    4  {'0'429R:A -> '0'430R:A: adjacent_5p upward }  0
+    5  {'0'430R:A -> '0'429R:A: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  '0'429R:A  0
+    1  '0'407R:A  0
+    2  '0'408R:A  0
+[Edges]
+    0  {'0'407R:A -> '0'408R:A: adjacent_5p upward }  0
+    1  {'0'408R:A -> '0'407R:A: adjacent_3p downward }  0
+    2  {'0'407R:A -> '0'429R:A: pairing parallel trans one_hbond Wh/Ww }  0
+    3  {'0'429R:A -> '0'407R:A: pairing parallel trans one_hbond Ww/Wh }  0
+    4  {'0'408R:A -> '0'429R:A: pairing parallel cis one_hbond Ww/Wh }  0
+    5  {'0'429R:A -> '0'408R:A: pairing parallel cis one_hbond Wh/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  '0'503R:G  0
+    1  '0'488R:U  0
+    2  '0'489R:A  0
+[Edges]
+    0  {'0'488R:U -> '0'489R:A: adjacent_5p }  0
+    1  {'0'489R:A -> '0'488R:U: adjacent_3p }  0
+    2  {'0'488R:U -> '0'503R:G: pairing antiparallel cis 84 Bs/Ww }  0
+    3  {'0'503R:G -> '0'488R:U: pairing antiparallel cis 84 Ww/Bs }  0
+    4  {'0'489R:A -> '0'503R:G: pairing antiparallel trans XI Hh/Ss }  0
+    5  {'0'503R:G -> '0'489R:A: pairing antiparallel trans XI Ss/Hh }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  '0'1414R:A  0
+    1  '0'1681R:G  0
+    2  '0'1682R:A  0
+[Edges]
+    0  {'0'1414R:A -> '0'1681R:G: pairing antiparallel trans XI Hh/Ss }  0
+    1  {'0'1681R:G -> '0'1414R:A: pairing antiparallel trans XI Ss/Hh }  0
+    2  {'0'1414R:A -> '0'1682R:A: pairing parallel trans I Ww/Ww }  0
+    3  {'0'1682R:A -> '0'1414R:A: pairing parallel trans I Ww/Ww }  0
+    4  {'0'1681R:G -> '0'1682R:A: adjacent_5p }  0
+    5  {'0'1682R:A -> '0'1681R:G: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  '0'1418R:U  0
+    1  '0'1445R:G  0
+    2  '0'1446R:U  0
+[Edges]
+    0  {'0'1418R:U -> '0'1445R:G: pairing parallel trans one_hbond Ws/Ww }  0
+    1  {'0'1445R:G -> '0'1418R:U: pairing parallel trans one_hbond Ww/Ws }  0
+    2  {'0'1418R:U -> '0'1446R:U: pairing parallel trans one_hbond Ww/Wh }  0
+    3  {'0'1446R:U -> '0'1418R:U: pairing parallel trans one_hbond Wh/Ww }  0
+    4  {'0'1445R:G -> '0'1446R:U: adjacent_5p }  0
+    5  {'0'1446R:U -> '0'1445R:G: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  '0'1489R:G  0
+    1  '0'1656R:A  0
+    2  '0'1657R:A  0
+[Edges]
+    0  {'0'1489R:G -> '0'1656R:A: pairing parallel trans one_hbond Ss/Wh }  0
+    1  {'0'1656R:A -> '0'1489R:G: pairing parallel trans one_hbond Wh/Ss }  0
+    2  {'0'1489R:G -> '0'1657R:A: pairing parallel trans one_hbond Sw/Ww }  0
+    3  {'0'1657R:A -> '0'1489R:G: pairing parallel trans one_hbond Ww/Sw }  0
+    4  {'0'1656R:A -> '0'1657R:A: adjacent_5p upward }  0
+    5  {'0'1657R:A -> '0'1656R:A: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  '0'1746R:A  0
+    1  '0'1753R:C  0
+    2  '0'1754R:A  0
+[Edges]
+    0  {'0'1746R:A -> '0'1753R:C: pairing antiparallel cis one_hbond Ww/Hw }  0
+    1  {'0'1753R:C -> '0'1746R:A: pairing antiparallel cis one_hbond Hw/Ww }  0
+    2  {'0'1746R:A -> '0'1754R:A: pairing parallel cis one_hbond Wh/Ww }  0
+    3  {'0'1754R:A -> '0'1746R:A: pairing parallel cis one_hbond Ww/Wh }  0
+    4  {'0'1753R:C -> '0'1754R:A: adjacent_5p upward }  0
+    5  {'0'1754R:A -> '0'1753R:C: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  '0'2528R:U  0
+    1  '0'2493R:C  0
+    2  '0'2494R:G  0
+[Edges]
+    0  {'0'2493R:C -> '0'2494R:G: adjacent_5p pairing antiparallel cis one_hbond Hh/Hw }  0
+    1  {'0'2494R:G -> '0'2493R:C: adjacent_3p pairing antiparallel cis one_hbond Hw/Hh }  0
+    2  {'0'2493R:C -> '0'2528R:U: pairing parallel cis one_hbond Hh/Wh }  0
+    3  {'0'2528R:U -> '0'2493R:C: pairing parallel cis one_hbond Wh/Hh }  0
+    4  {'0'2494R:G -> '0'2528R:U: pairing antiparallel cis XXVIII Ww/Ws }  0
+    5  {'0'2528R:U -> '0'2494R:G: pairing antiparallel cis XXVIII Ws/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  '0'2652R:U  0
+    1  '0'2092R:G  0
+    2  '0'2093R:G  0
+[Edges]
+    0  {'0'2092R:G -> '0'2093R:G: adjacent_5p pairing parallel cis one_hbond Sw/Hw }  0
+    1  {'0'2093R:G -> '0'2092R:G: adjacent_3p pairing parallel cis one_hbond Hw/Sw }  0
+    2  {'0'2092R:G -> '0'2652R:U: pairing antiparallel cis one_hbond 94 Ws/Wh }  0
+    3  {'0'2652R:U -> '0'2092R:G: pairing antiparallel cis one_hbond 94 Wh/Ws }  0
+    4  {'0'2093R:G -> '0'2652R:U: pairing antiparallel cis XXVIII Ww/Ws }  0
+    5  {'0'2652R:U -> '0'2093R:G: pairing antiparallel cis XXVIII Ws/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A180R:U  0
+    1  A195R:A  0
+    2  A196R:A  0
+[Edges]
+    0  {A180R:U -> A195R:A: pairing antiparallel trans Ww/Hh }  0
+    1  {A195R:A -> A180R:U: pairing antiparallel trans Hh/Ww }  0
+    2  {A180R:U -> A196R:A: pairing antiparallel trans one_hbond 46 Ws/Wh }  0
+    3  {A196R:A -> A180R:U: pairing antiparallel trans one_hbond 46 Wh/Ws }  0
+    4  {A195R:A -> A196R:A: adjacent_5p upward }  0
+    5  {A196R:A -> A195R:A: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A196R:A  0
+    1  A179R:A  0
+    2  A180R:U  0
+[Edges]
+    0  {A179R:A -> A180R:U: adjacent_5p upward }  0
+    1  {A180R:U -> A179R:A: adjacent_3p downward }  0
+    2  {A179R:A -> A196R:A: pairing antiparallel trans V Ww/Hh }  0
+    3  {A196R:A -> A179R:A: pairing antiparallel trans V Hh/Ww }  0
+    4  {A180R:U -> A196R:A: pairing antiparallel trans one_hbond 46 Ws/Wh }  0
+    5  {A196R:A -> A180R:U: pairing antiparallel trans one_hbond 46 Wh/Ws }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  A357R:G  0
+    1  A54R:C  0
+    2  A55R:A  0
+[Edges]
+    0  {A54R:C -> A55R:A: adjacent_5p }  0
+    1  {A55R:A -> A54R:C: adjacent_3p }  0
+    2  {A54R:C -> A357R:G: pairing antiparallel cis XIX Ww/Ww }  0
+    3  {A357R:G -> A54R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    4  {A55R:A -> A357R:G: pairing antiparallel trans XI Hh/Ss }  0
+    5  {A357R:G -> A55R:A: pairing antiparallel trans XI Ss/Hh }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  A365R:U  0
+    1  A48R:C  0
+    2  A49R:U  0
+[Edges]
+    0  {A48R:C -> A49R:U: adjacent_5p }  0
+    1  {A49R:U -> A48R:C: adjacent_3p }  0
+    2  {A48R:C -> A365R:U: pairing parallel trans one_hbond Hh/Hw }  0
+    3  {A365R:U -> A48R:C: pairing parallel trans one_hbond Hw/Hh }  0
+    4  {A49R:U -> A365R:U: pairing antiparallel trans 81 Hh/Ww }  0
+    5  {A365R:U -> A49R:U: pairing antiparallel trans 81 Ww/Hh }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  A982R:U  0
+    1  A1222R:G  0
+    2  A1223R:C  0
+[Edges]
+    0  {A982R:U -> A1222R:G: pairing antiparallel trans one_hbond Ws/Ww }  0
+    1  {A1222R:G -> A982R:U: pairing antiparallel trans one_hbond Ww/Ws }  0
+    2  {A982R:U -> A1223R:C: pairing antiparallel cis one_hbond Ww/Ww }  0
+    3  {A1223R:C -> A982R:U: pairing antiparallel cis one_hbond Ww/Ww }  0
+    4  {A1222R:G -> A1223R:C: adjacent_5p upward }  0
+    5  {A1223R:C -> A1222R:G: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A1028R:C  0
+    1  A1032R:G  0
+    2  A1033R:G  0
+[Edges]
+    0  {A1028R:C -> A1032R:G: pairing antiparallel cis one_hbond Ww/Ws }  0
+    1  {A1032R:G -> A1028R:C: pairing antiparallel cis one_hbond Ws/Ww }  0
+    2  {A1028R:C -> A1033R:G: pairing antiparallel trans one_hbond 122 Wh/Hw }  0
+    3  {A1033R:G -> A1028R:C: pairing antiparallel trans one_hbond 122 Hw/Wh }  0
+    4  {A1032R:G -> A1033R:G: adjacent_5p }  0
+    5  {A1033R:G -> A1032R:G: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A1028R:C  0
+    1  A1033R:G  0
+    2  A1034R:G  0
+[Edges]
+    0  {A1028R:C -> A1033R:G: pairing antiparallel trans one_hbond 122 Wh/Hw }  0
+    1  {A1033R:G -> A1028R:C: pairing antiparallel trans one_hbond 122 Hw/Wh }  0
+    2  {A1028R:C -> A1034R:G: pairing antiparallel cis one_hbond Hw/Hw }  0
+    3  {A1034R:G -> A1028R:C: pairing antiparallel cis one_hbond Hw/Hw }  0
+    4  {A1033R:G -> A1034R:G: adjacent_5p upward }  0
+    5  {A1034R:G -> A1033R:G: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A1032R:G  0
+    1  A1028R:C  0
+    2  A1029R:C  0
+[Edges]
+    0  {A1028R:C -> A1029R:C: adjacent_5p upward }  0
+    1  {A1029R:C -> A1028R:C: adjacent_3p downward }  0
+    2  {A1028R:C -> A1032R:G: pairing antiparallel cis one_hbond Ww/Ws }  0
+    3  {A1032R:G -> A1028R:C: pairing antiparallel cis one_hbond Ws/Ww }  0
+    4  {A1029R:C -> A1032R:G: pairing antiparallel cis one_hbond Wh/Wh }  0
+    5  {A1032R:G -> A1029R:C: pairing antiparallel cis one_hbond Wh/Wh }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  A1222R:G  0
+    1  A982R:U  0
+    2  A983R:A  0
+[Edges]
+    0  {A982R:U -> A983R:A: adjacent_5p }  0
+    1  {A983R:A -> A982R:U: adjacent_3p }  0
+    2  {A982R:U -> A1222R:G: pairing antiparallel trans one_hbond Ws/Ww }  0
+    3  {A1222R:G -> A982R:U: pairing antiparallel trans one_hbond Ww/Ws }  0
+    4  {A983R:A -> A1222R:G: pairing antiparallel cis one_hbond Ww/Ws }  0
+    5  {A1222R:G -> A983R:A: pairing antiparallel cis one_hbond Ws/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+[GraphModel]
+[Vertices]
+    0  A1223R:C  0
+    1  A981R:U  0
+    2  A982R:U  0
+[Edges]
+    0  {A981R:U -> A982R:U: adjacent_5p inward }  0
+    1  {A982R:U -> A981R:U: adjacent_3p inward }  0
+    2  {A981R:U -> A1223R:C: pairing antiparallel cis one_hbond Wh/Wh }  0
+    3  {A1223R:C -> A981R:U: pairing antiparallel cis one_hbond Wh/Wh }  0
+    4  {A982R:U -> A1223R:C: pairing antiparallel cis one_hbond Ww/Ww }  0
+    5  {A1223R:C -> A982R:U: pairing antiparallel cis one_hbond Ww/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A23R:C  0
+    1  A5R:G  0
+    2  A6R:A  0
+[Edges]
+    0  {A5R:G -> A6R:A: adjacent_5p }  0
+    1  {A6R:A -> A5R:G: adjacent_3p }  0
+    2  {A5R:G -> A23R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    3  {A23R:C -> A5R:G: pairing antiparallel cis XIX Ww/Ww }  0
+    4  {A6R:A -> A23R:C: pairing antiparallel trans one_hbond Bh/Bs }  0
+    5  {A23R:C -> A6R:A: pairing antiparallel trans one_hbond Bs/Bh }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  C151R:U  0
+    1  C139R:G  0
+    2  C140R:U  0
+[Edges]
+    0  {C139R:G -> C140R:U: adjacent_5p pairing parallel cis one_hbond 89 Sw/Hw }  0
+    1  {C140R:U -> C139R:G: adjacent_3p pairing parallel cis one_hbond 89 Hw/Sw }  0
+    2  {C139R:G -> C151R:U: pairing antiparallel cis one_hbond 94 Ws/Wh }  0
+    3  {C151R:U -> C139R:G: pairing antiparallel cis one_hbond 94 Wh/Ws }  0
+    4  {C140R:U -> C151R:U: pairing antiparallel cis XVI Ww/Ws }  0
+    5  {C151R:U -> C140R:U: pairing antiparallel cis XVI Ws/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A141R:C  0
+    1  A237R:G  0
+    2  A238R:G  0
+[Edges]
+    0  {A141R:C -> A237R:G: pairing antiparallel cis XIX Ww/Ww }  0
+    1  {A237R:G -> A141R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    2  {A141R:C -> A238R:G: pairing antiparallel cis one_hbond 127 Ss/Ws }  0
+    3  {A238R:G -> A141R:C: pairing antiparallel cis one_hbond 127 Ws/Ss }  0
+    4  {A237R:G -> A238R:G: adjacent_5p upward }  0
+    5  {A238R:G -> A237R:G: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A238R:G  0
+    1  A140R:U  0
+    2  A141R:C  0
+[Edges]
+    0  {A140R:U -> A141R:C: adjacent_5p upward }  0
+    1  {A141R:C -> A140R:U: adjacent_3p downward }  0
+    2  {A140R:U -> A238R:G: pairing antiparallel cis one_hbond Ww/Wh }  0
+    3  {A238R:G -> A140R:U: pairing antiparallel cis one_hbond Wh/Ww }  0
+    4  {A141R:C -> A238R:G: pairing antiparallel cis one_hbond 127 Ss/Ws }  0
+    5  {A238R:G -> A141R:C: pairing antiparallel cis one_hbond 127 Ws/Ss }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  '2'10R:U  0
+    1  '2'13R:A  0
+    2  '2'14R:G  0
+[Edges]
+    0  {'2'10R:U -> '2'13R:A: pairing parallel cis XXIII Ww/Hh }  0
+    1  {'2'13R:A -> '2'10R:U: pairing parallel cis XXIII Hh/Ww }  0
+    2  {'2'10R:U -> '2'14R:G: pairing parallel cis one_hbond 96 Ww/Hh }  0
+    3  {'2'14R:G -> '2'10R:U: pairing parallel cis one_hbond 96 Hh/Ww }  0
+    4  {'2'13R:A -> '2'14R:G: adjacent_5p upward }  0
+    5  {'2'14R:G -> '2'13R:A: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  '2'17R:C  0
+    1  '2'15R:C  0
+    2  '2'16R:U  0
+[Edges]
+    0  {'2'15R:C -> '2'16R:U: adjacent_5p upward }  0
+    1  {'2'16R:U -> '2'15R:C: adjacent_3p downward }  0
+    2  {'2'15R:C -> '2'17R:C: pairing antiparallel trans one_hbond Ws/Hw }  0
+    3  {'2'17R:C -> '2'15R:C: pairing antiparallel trans one_hbond Hw/Ws }  0
+    4  {'2'16R:U -> '2'17R:C: adjacent_5p pairing antiparallel trans 97 Bs/Hh }  0
+    5  {'2'17R:C -> '2'16R:U: adjacent_3p pairing antiparallel trans 97 Hh/Bs }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  S7R:G  0
+    1  S14R:A  0
+    2  S15R:C  0
+[Edges]
+    0  {S7R:G -> S14R:A: pairing antiparallel cis one_hbond 67 Wh/Hw }  0
+    1  {S14R:A -> S7R:G: pairing antiparallel cis one_hbond 67 Hw/Wh }  0
+    2  {S7R:G -> S15R:C: pairing antiparallel cis XIX Ww/Ww }  0
+    3  {S15R:C -> S7R:G: pairing antiparallel cis XIX Ww/Ww }  0
+    4  {S14R:A -> S15R:C: adjacent_5p upward }  0
+    5  {S15R:C -> S14R:A: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  S14R:A  0
+    1  S7R:G  0
+    2  S8R:U  0
+[Edges]
+    0  {S7R:G -> S8R:U: adjacent_5p upward }  0
+    1  {S8R:U -> S7R:G: adjacent_3p downward }  0
+    2  {S7R:G -> S14R:A: pairing antiparallel cis one_hbond 67 Wh/Hw }  0
+    3  {S14R:A -> S7R:G: pairing antiparallel cis one_hbond 67 Hw/Wh }  0
+    4  {S8R:U -> S14R:A: pairing antiparallel cis XX Ww/Ww }  0
+    5  {S14R:A -> S8R:U: pairing antiparallel cis XX Ww/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  B13R:G  0
+    1  B21R:G  0
+    2  B22R:A  0
+[Edges]
+    0  {B13R:G -> B21R:G: pairing antiparallel cis one_hbond Wh/Sw }  0
+    1  {B21R:G -> B13R:G: pairing antiparallel cis one_hbond Sw/Wh }  0
+    2  {B13R:G -> B22R:A: pairing antiparallel trans one_hbond Sw/Hh }  0
+    3  {B22R:A -> B13R:G: pairing antiparallel trans one_hbond Hh/Sw }  0
+    4  {B21R:G -> B22R:A: adjacent_5p }  0
+    5  {B22R:A -> B21R:G: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  E13R:G  0
+    1  E21R:G  0
+    2  E22R:A  0
+[Edges]
+    0  {E13R:G -> E21R:G: pairing antiparallel cis one_hbond Wh/Sw }  0
+    1  {E21R:G -> E13R:G: pairing antiparallel cis one_hbond Sw/Wh }  0
+    2  {E13R:G -> E22R:A: pairing antiparallel trans XI Ss/Hh }  0
+    3  {E22R:A -> E13R:G: pairing antiparallel trans XI Hh/Ss }  0
+    4  {E21R:G -> E22R:A: adjacent_5p }  0
+    5  {E22R:A -> E21R:G: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A21R:A  0
+    1  B17R:G  0
+    2  B18R:U  0
+[Edges]
+    0  {A21R:A -> B17R:G: pairing antiparallel cis one_hbond Wh/Wh }  0
+    1  {B17R:G -> A21R:A: pairing antiparallel cis one_hbond Wh/Wh }  0
+    2  {A21R:A -> B18R:U: pairing antiparallel cis XX Ww/Ww }  0
+    3  {B18R:U -> A21R:A: pairing antiparallel cis XX Ww/Ww }  0
+    4  {B17R:G -> B18R:U: adjacent_5p upward }  0
+    5  {B18R:U -> B17R:G: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  B17R:G  0
+    1  A21R:A  0
+    2  A22R:C  0
+[Edges]
+    0  {A21R:A -> A22R:C: adjacent_5p upward }  0
+    1  {A22R:C -> A21R:A: adjacent_3p downward }  0
+    2  {A21R:A -> B17R:G: pairing antiparallel cis one_hbond Wh/Wh }  0
+    3  {B17R:G -> A21R:A: pairing antiparallel cis one_hbond Wh/Wh }  0
+    4  {A22R:C -> B17R:G: pairing antiparallel cis Ww/Ww }  0
+    5  {B17R:G -> A22R:C: pairing antiparallel cis Ww/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A5R:A  0
+    1  A18R:U  0
+    2  A19R:U  0
+[Edges]
+    0  {A5R:A -> A18R:U: pairing antiparallel cis one_hbond Wh/Wh }  0
+    1  {A18R:U -> A5R:A: pairing antiparallel cis one_hbond Wh/Wh }  0
+    2  {A5R:A -> A19R:U: pairing antiparallel cis XX Ww/Ww }  0
+    3  {A19R:U -> A5R:A: pairing antiparallel cis XX Ww/Ww }  0
+    4  {A18R:U -> A19R:U: adjacent_5p upward }  0
+    5  {A19R:U -> A18R:U: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  A18R:U  0
+    1  A5R:A  0
+    2  A6R:G  0
+[Edges]
+    0  {A5R:A -> A6R:G: adjacent_5p upward }  0
+    1  {A6R:G -> A5R:A: adjacent_3p downward }  0
+    2  {A5R:A -> A18R:U: pairing antiparallel cis one_hbond Wh/Wh }  0
+    3  {A18R:U -> A5R:A: pairing antiparallel cis one_hbond Wh/Wh }  0
+    4  {A6R:G -> A18R:U: pairing antiparallel cis XXVIII Ww/Ws }  0
+    5  {A18R:U -> A6R:G: pairing antiparallel cis XXVIII Ws/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  R10R:G  0
+    1  R24R:G  0
+    2  R25R:C  0
+[Edges]
+    0  {R10R:G -> R24R:G: pairing antiparallel cis one_hbond Ww/Wh }  0
+    1  {R24R:G -> R10R:G: pairing antiparallel cis one_hbond Wh/Ww }  0
+    2  {R10R:G -> R25R:C: pairing antiparallel cis Ww/Ww }  0
+    3  {R25R:C -> R10R:G: pairing antiparallel cis Ww/Ww }  0
+    4  {R24R:G -> R25R:C: adjacent_5p upward }  0
+    5  {R25R:C -> R24R:G: adjacent_3p downward }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  R24R:G  0
+    1  R10R:G  0
+    2  R11R:C  0
+[Edges]
+    0  {R10R:G -> R11R:C: adjacent_5p upward }  0
+    1  {R11R:C -> R10R:G: adjacent_3p downward }  0
+    2  {R10R:G -> R24R:G: pairing antiparallel cis one_hbond Ww/Wh }  0
+    3  {R24R:G -> R10R:G: pairing antiparallel cis one_hbond Wh/Ww }  0
+    4  {R11R:C -> R24R:G: pairing antiparallel cis one_hbond Ws/Ws }  0
+    5  {R24R:G -> R11R:C: pairing antiparallel cis one_hbond Ws/Ws }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+
+MOLECULE:
+[GraphModel]
+[Vertices]
+    0  A4R:G  0
+    1  B66R:G  0
+    2  B67R:C  0
+[Edges]
+    0  {A4R:G -> B66R:G: pairing antiparallel cis one_hbond 115 Wh/Ws }  0
+    1  {B66R:G -> A4R:G: pairing antiparallel cis one_hbond 115 Ws/Wh }  0
+    2  {A4R:G -> B67R:C: pairing antiparallel cis Ww/Ww }  0
+    3  {B67R:C -> A4R:G: pairing antiparallel cis Ww/Ww }  0
+    4  {B66R:G -> B67R:C: adjacent_5p }  0
+    5  {B67R:C -> B66R:G: adjacent_3p }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    0    2
+    1    1    .    4
+    2    3    5    .
+
+[GraphModel]
+[Vertices]
+    0  B39R:G  0
+    1  A31R:G  0
+    2  A32R:C  0
+[Edges]
+    0  {A31R:G -> A32R:C: adjacent_5p }  0
+    1  {A32R:C -> A31R:G: adjacent_3p }  0
+    2  {A31R:G -> B39R:G: pairing antiparallel cis one_hbond 115 Ws/Wh }  0
+    3  {B39R:G -> A31R:G: pairing antiparallel cis one_hbond 115 Wh/Ws }  0
+    4  {A32R:C -> B39R:G: pairing antiparallel cis Ww/Ww }  0
+    5  {B39R:G -> A32R:C: pairing antiparallel cis Ww/Ww }  0
+[Adjacency matrix]
+         0    1    2
+    0    .    3    5
+    1    2    .    0
+    2    4    1    .
+

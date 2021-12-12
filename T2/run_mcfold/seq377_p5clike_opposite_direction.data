@@ -1,0 +1,175 @@
+Content-Type: text/html
+
+<html>
+<head>
+<title>seq377</title>
+</head><body>
+<pre>MC-Fold version: `Mar 10 2008` `22:28:15`
+© Marc Parisien and Francois Major
+@ University of Montreal
+Parisien M, Major F. Nature (2008) 452:51-55.
+ 21:00:46 up 29 days, 21:44, 26 users,  load average: 2.64, 2.63, 2.50
+
+
+----------------------------------------------------------------------
+    Name: seq377
+    Mask: ****************
+Sequence: GUUCCCGCAAGGGGGA
+          1234567890123456
+                   1      
+
+----------------------------------------------------------------------
+Branched: yes
+ Knotted: no
+ MinLoop: 4
+ MaxLoop: 666
+MinHrpin: -1
+MaxHrpin: -1
+MaxDepth: 666
+MaxBulge: 2
+UseBulge: 2
+MaxHelix: 6700
+MinStemL: 3
+MeanNrgy: -1.0
+ CapNrgy: +0.5
+ Explore: 30%
+  Filter: no
+  Render: no
+   Top-N: 100
+Branches: 4
+
+
+</pre><H2><P><P><P>Folding in progress...<P><P><P></H2><pre>Score: -999.000 GUUCCCGCAAGGGGGA
+      progress: GUUCCCGCAAGGGGGA
+                      ^
+      progress: GUUCCCGCAAGGGGGA
+                       ^
+      progress: GUUCCCGCAAGGGGGA
+                     ^
+      progress: GUUCCCGCAAGGGGGA
+                        ^
+      progress: GUUCCCGCAAGGGGGA
+                    ^
+      progress: GUUCCCGCAAGGGGGA
+                         ^
+      progress: GUUCCCGCAAGGGGGA
+                   ^
+      progress: GUUCCCGCAAGGGGGA
+                          ^
+      progress: GUUCCCGCAAGGGGGA
+                  ^
+      progress: GUUCCCGCAAGGGGGA
+                           ^
+      progress: GUUCCCGCAAGGGGGA
+                 ^
+      progress: GUUCCCGCAAGGGGGA
+                            ^
+      progress: GUUCCCGCAAGGGGGA
+                ^
+      progress: GUUCCCGCAAGGGGGA
+                             ^
+      progress: GUUCCCGCAAGGGGGA
+                ^
+      progress: GUUCCCGCAAGGGGGA
+                              ^
+      progress: GUUCCCGCAAGGGGGA
+                ^
+</pre><P><H2>Multi-branched structures:
+<P></H2><pre>Of the pool of 153 helices,  keeping 153
+
+
+Performing Dynamic Programming...
+Best Dynamic Programming Solution has Energy: -14.87
+
+Performing Backtracking with Waterman-Byers Condition...
+
+
+Building the stem buddy list for backtracking...
+ 21:00:46 up 29 days, 21:44, 26 users,  load average: 2.64, 2.63, 2.50
+
+
+Backtracking with 1 variables (stems):
+domains have 153 elements.
+ 21:00:46 up 29 days, 21:44, 26 users,  load average: 2.64, 2.63, 2.50
+Score: -999.000 GUUCCCGCAAGGGGGA
+Total number of MB structures with 1 stems: 17
+(overlaps: 0, !energy: 136)
+</pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq377
+GUUCCCGCAAGGGGGA
+(((((((..))))))) -14.87 ( +0.00)
+((((((....)))))) -13.73 ( +0.00)
+..((((((..)))))) -13.49 ( +0.00)
+.((((((..)))))). -13.27 ( +0.00)
+.((((((..))))).) -12.36 ( +0.00)
+.(((((....))))). -12.13 ( +0.00)
+.(.(((((..)))))) -11.70 ( +0.00)
+..(((((..))))).. -11.69 ( +0.00)
+.(((((....).)))) -11.38 ( +0.00)
+.(((((.....))))) -11.28 ( +0.00)
+(.(((((..)))))). -10.93 ( +0.00)
+
+
+Backtracking with 2 variables (stems):
+domains have 153 elements.
+ 21:00:46 up 29 days, 21:44, 26 users,  load average: 2.64, 2.63, 2.50
+Score: -999.000 GUUCCCGCAAGGGGGA
+Total number of MB structures with 2 stems: 2
+(overlaps: 0, !energy: 140)
+</pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq377
+GUUCCCGCAAGGGGGA
+(((((((..))))))) -14.87 ( +0.00)
+((((((....)))))) -13.73 ( +0.00)
+..((((((..)))))) -13.49 ( +0.00)
+.((((((..)))))). -13.27 ( +0.00)
+.((((((..))))).) -12.36 ( +0.00)
+.(((((....))))). -12.13 ( +0.00)
+.(.(((((..)))))) -11.70 ( +0.00)
+..(((((..))))).. -11.69 ( +0.00)
+.(((((....).)))) -11.38 ( +0.00)
+.(((((.....))))) -11.28 ( +0.00)
+.((((((..))).))) -11.22 ( +0.00)
+(.(((((..)))))). -10.93 ( +0.00)
+
+
+Backtracking with 3 variables (stems):
+domains have 153 elements.
+ 21:00:46 up 29 days, 21:44, 26 users,  load average: 2.64, 2.63, 2.50
+Score: -999.000 GUUCCCGCAAGGGGGA
+Total number of MB structures with 3 stems: 0
+(overlaps: 0, !energy: 140)
+
+
+Backtracking with 4 variables (stems):
+domains have 153 elements.
+ 21:00:46 up 29 days, 21:44, 26 users,  load average: 2.64, 2.63, 2.50
+Score: -999.000 GUUCCCGCAAGGGGGA
+Total number of MB structures with 4 stems: 0
+(overlaps: 0, !energy: 140)
+</pre><P><H2>Explored 19 structures in 00:00:01 !!!
+<P></H2><pre></pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq377
+GUUCCCGCAAGGGGGA
+(((((((..))))))) -14.87 ( +0.00)
+((((((....)))))) -13.73 ( +0.00)
+..((((((..)))))) -13.49 ( +0.00)
+.((((((..)))))). -13.27 ( +0.00)
+.((((((..))))).) -12.36 ( +0.00)
+.(((((....))))). -12.13 ( +0.00)
+.(.(((((..)))))) -11.70 ( +0.00)
+..(((((..))))).. -11.69 ( +0.00)
+.(((((....).)))) -11.38 ( +0.00)
+.(((((.....))))) -11.28 ( +0.00)
+.((((((..))).))) -11.22 ( +0.00)
+(.(((((..)))))). -10.93 ( +0.00)
+
+</pre><H3><P>Thank you for using MC-Fold!</H3>
+</body>
+</html>

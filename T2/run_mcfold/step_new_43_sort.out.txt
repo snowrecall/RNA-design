@@ -1,0 +1,1028 @@
+>seq96
+GUUCUUGCAAAGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.01    Type2
+>seq292
+GUCCUUGCAAAGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.01    Type2
+>seq303
+GUCUUUGCAAAAGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.01    Type2
+>seq317
+GUCUUUGCAAAGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.02    Type2
+>seq24
+GUUUCUGCAAAGGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.03    Type2
+>seq82
+GUUCUUGCAAAAGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.03    Type2
+>seq89
+GUUCCUGCAAAGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.03    Type2
+>seq212
+GUUUCUGCAAAGGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.03    Type2
+>seq256
+GUCUUUGCAAAAAGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.03    Type2
+>seq262
+GUCUUUGCAAAGAGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.03    Type2
+>seq279
+GUCCUUGCAAAAGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.03    Type2
+>seq286
+GUCCCUGCAAAGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.03    Type2
+>seq310
+GUCUCUGCAAAGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.04    Type2
+>seq17
+GUUUUUGCAAAAGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.11    Type2
+>seq32
+GUUUUUGCAAAGGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.11    Type2
+>seq60
+GUUUUUGCAAAAAGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.11    Type2
+>seq110
+GUUUUUGCAAAAGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.11    Type2
+>seq3
+GUUUUUGCAAAGAAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.12    Type2
+>seq125
+GUUUUUGCAAAGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.12    Type2
+>seq192
+GUUUUUGCAAAGAAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.12    Type2
+>seq206
+GUUUUUGCAAAAGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.12    Type2
+>seq220
+GUUUUUGCAAAGGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.12    Type2
+>seq345
+GUUUUUGCAAAAAGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.12    Type2
+>seq351
+GUUUUUGCAAAGAGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.12    Type2
+>seq396
+GUUUUUGCAAAAGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.12    Type2
+>seq382
+GUUCUUGCAAAGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.13    Type2
+>seq117
+GUUUCUGCAAAGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.14    Type2
+>seq368
+GUUCUUGCAAAAGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.14    Type2
+>seq375
+GUUCCUGCAAAGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.14    Type2
+>seq403
+GUUUCUGCAAAGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.15    Type2
+>seq102
+GUUCGAGCAAUUGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.29    Type2
+>seq298
+GUCCGAGCAAUUGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.29    Type2
+>seq107
+GUUGGAGCAAUUCGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.36    Type2
+>seq29
+GUUUCGGCAAUGGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.37    Type2
+>seq94
+GUUCCGGCAAUGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.37    Type2
+>seq267
+GUCUUGGCAAUGAGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.37    Type2
+>seq290
+GUCCCGGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.37    Type2
+>seq291
+GUCCGGGCAAUCGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.37    Type2
+>seq334
+GUGGGAGCAAUUCCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.37    Type2
+>seq337
+GUGGAAGCAAUUUCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.37    Type2
+>seq217
+GUUUCGGCAAUGGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.38    Type2
+>seq302
+GUCGGGGCAAUCCGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.38    Type2
+>seq314
+GUCUCGGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.38    Type2
+>seq418
+GUGAAAGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.38    Type2
+>seq423
+GUGAGAGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.38    Type2
+>seq342
+GUGGGAGCAAUUUCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.39    Type2
+>seq428
+GUGGGAGCAAUUCUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.39    Type2
+>seq101
+GUUCUGGCAAUGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.40    Type2
+>seq297
+GUCCUGGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.40    Type2
+>seq422
+GUGAGGGCAAUCUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.40    Type2
+>seq322
+GUCUUGGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.41    Type2
+>seq339
+GUGGAGGCAAUUUCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.41    Type2
+>seq431
+GUGGAAGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.41    Type2
+>seq420
+GUGAAGGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.42    Type2
+>seq425
+GUGAGGGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.42    Type2
+>seq31
+GUUUGGGCAAUCGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.43    Type2
+>seq106
+GUUGGGGCAAUCCGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.44    Type2
+>seq333
+GUGGGGGCAAUCCCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.44    Type2
+>seq336
+GUGGGGGCAAUUCCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.44    Type2
+>seq341
+GUGGGGGCAAUCUCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.44    Type2
+>seq344
+GUGGGGGCAAUUUCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.44    Type2
+>seq70
+GUUUUGGCAAUGAGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.45    Type2
+>seq8
+GUUUUGGCAAUGAAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.46    Type2
+>seq197
+GUUUUGGCAAUGAAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.46    Type2
+>seq356
+GUUUUGGCAAUGAGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.46    Type2
+>seq427
+GUGGGGGCAAUCCUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.46    Type2
+>seq430
+GUGGGGGCAAUUCUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.46    Type2
+>seq433
+GUGGAGGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.46    Type2
+>seq435
+GUGGGGGCAAUCUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.46    Type2
+>seq122
+GUUUCGGCAAUGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.48    Type2
+>seq380
+GUUCCGGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.49    Type2
+>seq392
+GUUGGGGCAAUCCGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.49    Type2
+>seq408
+GUUUCGGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.49    Type2
+>seq37
+GUUUUGGCAAUGGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.50    Type2
+>seq225
+GUUUUGGCAAUGGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.51    Type2
+>seq387
+GUUCUGGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.51    Type2
+>seq417
+GUUGGGGCAAUCUGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.51    Type2
+>seq447
+GGAGGAGCAAUUCUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.58    Type2
+>seq442
+GGAAGAGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.62    Type2
+>seq450
+GGAGAAGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.62    Type2
+>seq454
+GGAGGAGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.62    Type2
+>seq446
+GGAGGGGCAAUCCUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.64    Type2
+>seq449
+GGAGGGGCAAUUCUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.64    Type2
+>seq157
+GGGGGAGCAAUUCCCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.65    Type2
+>seq160
+GGGGAAGCAAUUUCCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.65    Type2
+>seq168
+GGGAAAGCAAUUUUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.65    Type2
+>seq173
+GGGAGAGCAAUUUUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.65    Type2
+>seq178
+GGGGGAGCAAUUCUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.65    Type2
+>seq441
+GGAAGGGCAAUCUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.65    Type2
+>seq461
+GGGGAAGCAAUUUCUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.65    Type2
+>seq478
+GGGGGAGCAAUUCUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.65    Type2
+>seq453
+GGAGGGGCAAUCUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.66    Type2
+>seq458
+GGGGGAGCAAUUCCUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.66    Type2
+>seq326
+GUCGAGGCAACUUGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.67    Type2
+>seq439
+GGAAAGGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.67    Type2
+>seq444
+GGAAGGGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.67    Type2
+>seq165
+GGGGGAGCAAUUUCCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.68    Type2
+>seq172
+GGGAGGGCAAUCUUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.68    Type2
+>seq180
+GGGGAAGCAAUUUUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.68    Type2
+>seq185
+GGGGGAGCAAUUUUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.68    Type2
+>seq465
+GGGGGAGCAAUUUCUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.68    Type2
+>seq468
+GGGAAAGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.68    Type2
+>seq473
+GGGAGAGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.68    Type2
+>seq481
+GGGGAAGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.68    Type2
+>seq463
+GGGGAGGCAAUUUCUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.69    Type2
+>seq162
+GGGGAGGCAAUUUCCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.70    Type2
+>seq170
+GGGAAGGCAAUUUUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.70    Type2
+>seq175
+GGGAGGGCAAUUUUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.70    Type2
+>seq472
+GGGAGGGCAAUCUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.70    Type2
+>seq265
+GUCUUGGCAACGAGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.71    Type2
+>seq159
+GGGGGGGCAAUUCCCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.72    Type2
+>seq457
+GGGGGGGCAAUCCCUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.72    Type2
+>seq460
+GGGGGGGCAAUUCCUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.72    Type2
+>seq475
+GGGAGGGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.72    Type2
+>seq477
+GGGGGGGCAAUCCUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.72    Type2
+>seq483
+GGGGAGGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.72    Type2
+>seq27
+GUUUCGGCAACGGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq92
+GUUCCGGCAACGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq95
+GUUCGGGCAACCGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq99
+GUUCUGGCAACGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq103
+GUUCGGGCAACUGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq164
+GGGGGGGCAAUCUCCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq167
+GGGGGGGCAAUUUCCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq177
+GGGGGGGCAAUCCUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq179
+GGGGGGGCAAUUCUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq182
+GGGGAGGCAAUUUUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq184
+GGGGGGGCAAUCUUCA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq215
+GUUUCGGCAACGGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq328
+GUCGGGGCAACCUGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq467
+GGGGGGGCAAUUUCUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq470
+GGGAAGGCAAUUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq480
+GGGGGGGCAAUUCUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq485
+GGGGGGGCAAUCUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.73    Type2
+>seq288
+GUCCCGGCAACGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.74    Type2
+>seq295
+GUCCUGGCAACGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.74    Type2
+>seq299
+GUCCGGGCAACUGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.74    Type2
+>seq301
+GUCGGGGCAACCCGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.74    Type2
+>seq313
+GUCUCGGCAACGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.74    Type2
+>seq315
+GUCUGGGCAACCGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.74    Type2
+>seq245
+GUAGGAGCAAUUCUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.75    Type2
+>seq338
+GUGGAGGCAACUUCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.75    Type2
+>seq419
+GUGAAGGCAACUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.76    Type2
+>seq421
+GUGAGGGCAACCUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.76    Type2
+>seq424
+GUGAGGGCAACUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.78    Type2
+>seq4
+GUUUUAGCAAUGAAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.79    Type2
+>seq105
+GUUGGGGCAACCCGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.79    Type2
+>seq6
+GUUUUGGCAACGAAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq30
+GUUUGGGCAACCGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq68
+GUUUUGGCAACGAGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq108
+GUUGGGGCAACUCGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq218
+GUUUGGGCAACCGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq248
+GUAGAAGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq335
+GUGGGGGCAACUCCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq340
+GUGGGGGCAACCUCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq343
+GUGGGGGCAACUUCGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq432
+GUGGAGGCAACUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.80    Type2
+>seq9
+GUUUGAGCAAUUAAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.81    Type2
+>seq40
+GUUGAAGCAAUUUAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.81    Type2
+>seq137
+GUGAAAGCAAUUUUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.81    Type2
+>seq142
+GUGAGAGCAAUUUUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.81    Type2
+>seq195
+GUUUUGGCAACGAAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.81    Type2
+>seq38
+GUUUGGGCAACUGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.82    Type2
+>seq78
+GUUAGGGCAAUCUGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.82    Type2
+>seq132
+GUUGGGGCAACCUGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.82    Type2
+>seq198
+GUUUGAGCAAUUAAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.82    Type2
+>seq228
+GUUGAAGCAAUUUAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.82    Type2
+>seq306
+GUCUUGGCAAUAGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.82    Type2
+>seq426
+GUGGGGGCAACCCUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.82    Type2
+>seq434
+GUGGGGGCAACCUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.82    Type2
+>seq437
+GUGGGGGCAACUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.82    Type2
+>seq85
+GUUCUGGCAAUAGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.83    Type2
+>seq120
+GUUUCGGCAACGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.83    Type2
+>seq141
+GUGAGGGCAAUCUUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.83    Type2
+>seq226
+GUUUGGGCAACUGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.83    Type2
+>seq244
+GUAGGGGCAAUCCUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.83    Type2
+>seq247
+GUAGGGGCAAUUCUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.83    Type2
+>seq259
+GUCUUGGCAAUAAGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.83    Type2
+>seq282
+GUCCUGGCAAUAGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.83    Type2
+>seq429
+GUGGGGGCAACUCUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.83    Type2
+>seq23
+GUUUAGGCAAUUGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.84    Type2
+>seq35
+GUUUUGGCAACGGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.84    Type2
+>seq123
+GUUUGGGCAACCGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.84    Type2
+>seq147
+GUGGGAGCAAUUCUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.84    Type2
+>seq378
+GUUCCGGCAACGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.84    Type2
+>seq381
+GUUCGGGCAACCGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.84    Type2
+>seq389
+GUUCGGGCAACUGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.84    Type2
+>seq406
+GUUUCGGCAACGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.84    Type2
+>seq42
+GUUGAGGCAAUUUAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq97
+GUUCUAGCAAUGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq139
+GUGAAGGCAAUUUUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq252
+GUAGGGGCAAUCUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq255
+GUAGGGGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq293
+GUCCUAGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq385
+GUUCUGGCAACGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq391
+GUUGGGGCAACCCGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq394
+GUUGGGGCAACUCGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq409
+GUUUGGGCAACCGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.85    Type2
+>seq45
+GUUGGAGCAAUUUAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.86    Type2
+>seq144
+GUGAGGGCAAUUUUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.86    Type2
+>seq150
+GUGGAAGCAAUUUUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.86    Type2
+>seq261
+GUCUGGGCAAUCAGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.86    Type2
+>seq14
+GUUGGAGCAAUUCAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.87    Type2
+>seq49
+GUGGGAGCAAUUCCAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.87    Type2
+>seq52
+GUGGAAGCAAUUUCAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.87    Type2
+>seq155
+GUGGGAGCAAUUUUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.87    Type2
+>seq416
+GUUGGGGCAACCUGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.87    Type2
+>seq21
+GUUUAAGCAAUUGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.88    Type2
+>seq74
+GUUAAAGCAAUUUGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.88    Type2
+>seq203
+GUUGGAGCAAUUCAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.88    Type2
+>seq25
+GUUUCAGCAAUGGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.89    Type2
+>seq57
+GUGGGAGCAAUUUCAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.89    Type2
+>seq90
+GUUCCAGCAAUGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.89    Type2
+>seq213
+GUUUCAGCAAUGGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.89    Type2
+>seq240
+GUAAGAGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.89    Type2
+>seq287
+GUCCCAGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.89    Type2
+>seq309
+GUCUAGGCAAUUGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.89    Type2
+>seq311
+GUCUCAGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.89    Type2
+>seq239
+GUAAGGGCAAUCUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.90    Type2
+>seq20
+GUUUUGGCAAUAGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.91    Type2
+>seq44
+GUUGGGGCAAUCUAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.91    Type2
+>seq63
+GUUUUGGCAAUAAGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.91    Type2
+>seq149
+GUGGGGGCAAUUCUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.91    Type2
+>seq154
+GUGGGGGCAAUCUUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.91    Type2
+>seq200
+GUUUGGGCAAUUAAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.91    Type2
+>seq275
+GUCAGGGCAAUCUGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.91    Type2
+>seq11
+GUUUGGGCAAUUAAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.92    Type2
+>seq54
+GUGGAGGCAAUUUCAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.92    Type2
+>seq76
+GUUAAGGCAAUUUGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.92    Type2
+>seq146
+GUGGGGGCAAUCCUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.92    Type2
+>seq152
+GUGGAGGCAAUUUUAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.92    Type2
+>seq189
+GUUUUGGCAAUAAAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.92    Type2
+>seq208
+GUUUUGGCAAUAGAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.92    Type2
+>seq232
+GUUGGGGCAAUCUAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.92    Type2
+>seq242
+GUAAGGGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.92    Type2
+>seq88
+GUUCAGGCAAUUGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.93    Type2
+>seq237
+GUAAAGGCAAUUUUGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.93    Type2
+>seq285
+GUCCAGGCAAUUGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.93    Type2
+>seq2
+GUUUGGGCAAUCAAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.94    Type2
+>seq13
+GUUGGGGCAAUCCAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.94    Type2
+>seq16
+GUUGGGGCAAUUCAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.94    Type2
+>seq51
+GUGGGGGCAAUUCCAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.94    Type2
+>seq56
+GUGGGGGCAAUCUCAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.94    Type2
+>seq59
+GUGGGGGCAAUUUCAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.94    Type2
+>seq65
+GUUUGGGCAAUCAGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.94    Type2
+>seq33
+GUUUUAGCAAUGGAAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.95    Type2
+>seq48
+GUGGGGGCAAUCCCAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.95    Type2
+>seq191
+GUUUGGGCAAUCAAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.95    Type2
+>seq202
+GUUGGGGCAAUCCAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.95    Type2
+>seq205
+GUUGGGGCAAUUCAGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.95    Type2
+>seq86
+GUUCAAGCAAUUGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.97    Type2
+>seq271
+GUCAAAGCAAUUUGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.97    Type2
+>seq283
+GUCCAAGCAAUUGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.97    Type2
+>seq118
+GUUUCAGCAAUGGGAA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.99    Type2
+>seq376
+GUUCCAGCAAUGGGGA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    2.99    Type2
+>seq438
+GGAAAGGCAACUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    3.00    Type2
+>seq448
+GGAGGGGCAACUCUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    3.00    Type2
+>seq451
+GGAGAGGCAACUUUUA
+(((((((..)))))))    0.00    Type0
+.((((((...))))))    3.00    Type2

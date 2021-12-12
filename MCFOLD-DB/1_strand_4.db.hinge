@@ -1,0 +1,74 @@
+[ 5' A A ]
+S/H	anti	trans	3
+S/W	anti	cis	1
+S/W	anti	trans	1
+[ 3' A A ]
+[ 5' A C ]
+S/H	anti	trans	1
+S/H	para	cis	1
+[ 3' A C ]
+[ 5' A G ]
+S/S	anti	cis	2
+S/W	anti	cis	1
+W/S	anti	cis	1
+[ 3' A G ]
+[ 5' A U ]
+S/W	para	trans	1
+[ 3' A U ]
+[ 5' C A ]
+[ 3' C A ]
+[ 5' C C ]
+W/H	anti	trans	1
+W/H	para	cis	1
+[ 3' C C ]
+[ 5' C G ]
+B/W	para	trans	2
+H/H	anti	cis	1
+W/B	anti	cis	1
+W/H	anti	trans	1
+W/W	anti	cis	4
+[ 3' C G ]
+[ 5' C U ]
+[ 3' C U ]
+[ 5' G A ]
+S/H	anti	trans	72
+S/W	anti	cis	3
+S/W	anti	trans	1
+S/W	para	trans	3
+W/H	anti	trans	2
+[ 3' G A ]
+[ 5' G C ]
+S/S	anti	cis	1
+S/W	para	trans	3
+W/W	anti	cis	2
+[ 3' G C ]
+[ 5' G G ]
+S/H	anti	cis	1
+S/H	anti	trans	5
+W/H	para	cis	7
+[ 3' G G ]
+[ 5' G U ]
+S/W	anti	cis	1
+[ 3' G U ]
+[ 5' U A ]
+B/H	anti	trans	1
+W/C	anti	trans	1
+W/H	para	cis	4
+W/W	anti	cis	1
+[ 3' U A ]
+[ 5' U C ]
+S/H	anti	trans	2
+W/B	anti	cis	1
+[ 3' U C ]
+[ 5' U G ]
+B/W	para	trans	16
+H/S	para	trans	1
+S/S	anti	cis	1
+S/W	para	trans	2
+W/W	anti	cis	1
+W/W	para	trans	8
+[ 3' U G ]
+[ 5' U U ]
+B/H	anti	trans	1
+S/W	para	trans	1
+[ 3' U U ]

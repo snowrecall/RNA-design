@@ -1,0 +1,2037 @@
+>seq1
+GUUUGGGCAACCAAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq2
+GUUUGGGCAAUCAAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.94 Type2
+>seq3
+GUUUUUGCAAAGAAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.12 Type2
+((((((...)))))). 3.72 Type1
+((((((..)))))).. 3.6 Type3
+>seq4
+GUUUUAGCAAUGAAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.79 Type2
+>seq5
+GUUUUCGCAAGGAAAA
+(((((((..))))))) 0 Type0
+>seq6
+GUUUUGGCAACGAAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+>seq7
+GUUUUUGCAAGGAAAA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.72 Type1
+((((((..)))))).. 3.6 Type3
+..((((((..)))))) 1.44 Type4
+>seq8
+GUUUUGGCAAUGAAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.46 Type2
+>seq9
+GUUUGAGCAAUUAAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.81 Type2
+>seq10
+GUUUGGGCAACUAAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.28 Type2
+((((((...)))))). 4.19 Type1
+>seq11
+GUUUGGGCAAUUAAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.92 Type2
+>seq12
+GUUGGGGCAACCCAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.3 Type2
+>seq13
+GUUGGGGCAAUCCAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.94 Type2
+>seq14
+GUUGGAGCAAUUCAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.87 Type2
+>seq15
+GUUGGGGCAACUCAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq16
+GUUGGGGCAAUUCAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.94 Type2
+>seq17
+GUUUUUGCAAAAGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.11 Type2
+((((((...)))))). 3.72 Type1
+((((((..)))))).. 3.59 Type3
+>seq18
+GUUUUGGCAACAGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq19
+GUUUUUGCAAGAGAAA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.72 Type1
+((((((..)))))).. 3.59 Type3
+..((((((..)))))) 1.76 Type4
+>seq20
+GUUUUGGCAAUAGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.91 Type2
+>seq21
+GUUUAAGCAAUUGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.88 Type2
+>seq22
+GUUUAGGCAACUGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.18 Type2
+>seq23
+GUUUAGGCAAUUGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.84 Type2
+>seq24
+GUUUCUGCAAAGGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.03 Type2
+>seq25
+GUUUCAGCAAUGGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.89 Type2
+>seq26
+GUUUCCGCAAGGGAAA
+(((((((..))))))) 0 Type0
+>seq27
+GUUUCGGCAACGGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+>seq28
+GUUUCUGCAAGGGAAA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.71 Type1
+>seq29
+GUUUCGGCAAUGGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.37 Type2
+>seq30
+GUUUGGGCAACCGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+>seq31
+GUUUGGGCAAUCGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.43 Type2
+>seq32
+GUUUUUGCAAAGGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.11 Type2
+((((((...)))))). 3.72 Type1
+((((((..)))))).. 3.59 Type3
+>seq33
+GUUUUAGCAAUGGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.95 Type2
+>seq34
+GUUUUCGCAAGGGAAA
+(((((((..))))))) 0 Type0
+..((((((..)))))) 1.37 Type4
+>seq35
+GUUUUGGCAACGGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.84 Type2
+>seq36
+GUUUUUGCAAGGGAAA
+(((((((..))))))) 0 Type0
+((((((..)))))).. 3.59 Type3
+..((((((..)))))) 1.48 Type4
+>seq37
+GUUUUGGCAAUGGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.5 Type2
+>seq38
+GUUUGGGCAACUGAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.82 Type2
+((((((...)))))). 4.04 Type1
+>seq39
+GUUUGGGCAAUUGAAA
+(((((((..))))))) 0 Type0
+>seq40
+GUUGAAGCAAUUUAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.81 Type2
+>seq41
+GUUGAGGCAACUUAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.19 Type2
+>seq42
+GUUGAGGCAAUUUAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+>seq43
+GUUGGGGCAACCUAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.27 Type2
+((((((...)))))). 4.19 Type1
+>seq44
+GUUGGGGCAAUCUAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.91 Type2
+((((((...)))))). 4.19 Type1
+>seq45
+GUUGGAGCAAUUUAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.86 Type2
+>seq46
+GUUGGGGCAACUUAAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.27 Type2
+((((((...)))))). 4.19 Type1
+>seq47
+GUUGGGGCAAUUUAAA
+(((((((..))))))) 0 Type0
+>seq48
+GUGGGGGCAAUCCCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.95 Type2
+>seq49
+GUGGGAGCAAUUCCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.87 Type2
+>seq50
+GUGGGGGCAACUCCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.3 Type2
+>seq51
+GUGGGGGCAAUUCCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.94 Type2
+>seq52
+GUGGAAGCAAUUUCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.87 Type2
+>seq53
+GUGGAGGCAACUUCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.25 Type2
+>seq54
+GUGGAGGCAAUUUCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.92 Type2
+>seq55
+GUGGGGGCAACCUCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.3 Type2
+((((((..)))))).. 4.6 Type3
+>seq56
+GUGGGGGCAAUCUCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.94 Type2
+>seq57
+GUGGGAGCAAUUUCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.89 Type2
+>seq58
+GUGGGGGCAACUUCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.3 Type2
+>seq59
+GUGGGGGCAAUUUCAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.94 Type2
+>seq60
+GUUUUUGCAAAAAGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.11 Type2
+((((((...)))))). 3.72 Type1
+((((((..)))))).. 3.13 Type3
+>seq61
+GUUUUGGCAACAAGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq62
+GUUUUUGCAAGAAGAA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.71 Type1
+((((((..)))))).. 3.13 Type3
+..((((((..)))))) 1.76 Type4
+>seq63
+GUUUUGGCAAUAAGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.91 Type2
+((((((..)))))).. 3.94 Type3
+>seq64
+GUUUGGGCAACCAGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.3 Type2
+>seq65
+GUUUGGGCAAUCAGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.94 Type2
+>seq66
+GUUUUAGCAAUGAGAA
+(((((((..))))))) 0 Type0
+>seq67
+GUUUUCGCAAGGAGAA
+(((((((..))))))) 0 Type0
+>seq68
+GUUUUGGCAACGAGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+>seq69
+GUUUUUGCAAGGAGAA
+(((((((..))))))) 0 Type0
+((((((..)))))).. 3.12 Type3
+..((((((..)))))) 1.43 Type4
+>seq70
+GUUUUGGCAAUGAGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.45 Type2
+>seq71
+GUUUGAGCAAUUAGAA
+(((((((..))))))) 0 Type0
+>seq72
+GUUUGGGCAACUAGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.27 Type2
+((((((...)))))). 4.18 Type1
+>seq73
+GUUUGGGCAAUUAGAA
+(((((((..))))))) 0 Type0
+>seq74
+GUUAAAGCAAUUUGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.88 Type2
+>seq75
+GUUAAGGCAACUUGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.26 Type2
+>seq76
+GUUAAGGCAAUUUGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.92 Type2
+>seq77
+GUUAGGGCAACCUGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.17 Type2
+>seq78
+GUUAGGGCAAUCUGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.82 Type2
+>seq79
+GUUAGAGCAAUUUGAA
+(((((((..))))))) 0 Type0
+>seq80
+GUUAGGGCAACUUGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.2 Type2
+((((((...)))))). 4.16 Type1
+>seq81
+GUUAGGGCAAUUUGAA
+(((((((..))))))) 0 Type0
+>seq82
+GUUCUUGCAAAAGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.03 Type2
+>seq83
+GUUCUGGCAACAGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.22 Type2
+>seq84
+GUUCUUGCAAGAGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.99 Type2
+((((((..)))))).. 2.98 Type3
+>seq85
+GUUCUGGCAAUAGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.83 Type2
+>seq86
+GUUCAAGCAAUUGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.97 Type2
+>seq87
+GUUCAGGCAACUGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.27 Type2
+>seq88
+GUUCAGGCAAUUGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.93 Type2
+>seq89
+GUUCCUGCAAAGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.03 Type2
+>seq90
+GUUCCAGCAAUGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.89 Type2
+>seq91
+GUUCCCGCAAGGGGAA
+(((((((..))))))) 0 Type0
+>seq92
+GUUCCGGCAACGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+>seq93
+GUUCCUGCAAGGGGAA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.7 Type1
+>seq94
+GUUCCGGCAAUGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.37 Type2
+>seq95
+GUUCGGGCAACCGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+>seq96
+GUUCUUGCAAAGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.01 Type2
+((((((...)))))). 3.7 Type1
+>seq97
+GUUCUAGCAAUGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+>seq98
+GUUCUCGCAAGGGGAA
+(((((((..))))))) 0 Type0
+>seq99
+GUUCUGGCAACGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+>seq100
+GUUCUUGCAAGGGGAA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.72 Type1
+((((((..)))))).. 3.06 Type3
+>seq101
+GUUCUGGCAAUGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.4 Type2
+>seq102
+GUUCGAGCAAUUGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.29 Type2
+>seq103
+GUUCGGGCAACUGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+>seq104
+GUUCGGGCAAUUGGAA
+(((((((..))))))) 0 Type0
+>seq105
+GUUGGGGCAACCCGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.79 Type2
+>seq106
+GUUGGGGCAAUCCGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.44 Type2
+>seq107
+GUUGGAGCAAUUCGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.36 Type2
+>seq108
+GUUGGGGCAACUCGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+>seq109
+GUUGGGGCAAUUCGAA
+(((((((..))))))) 0 Type0
+>seq110
+GUUUUUGCAAAAGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.11 Type2
+((((((...)))))). 3.71 Type1
+((((((..)))))).. 3.08 Type3
+>seq111
+GUUUUGGCAACAGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.3 Type2
+>seq112
+GUUUUUGCAAGAGGAA
+(((((((..))))))) 0 Type0
+((((((..)))))).. 3.07 Type3
+..((((((..)))))) 1.76 Type4
+>seq113
+GUUUUGGCAAUAGGAA
+(((((((..))))))) 0 Type0
+>seq114
+GUUUAAGCAAUUGGAA
+(((((((..))))))) 0 Type0
+>seq115
+GUUUAGGCAACUGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.33 Type2
+>seq116
+GUUUAGGCAAUUGGAA
+(((((((..))))))) 0 Type0
+>seq117
+GUUUCUGCAAAGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.14 Type2
+>seq118
+GUUUCAGCAAUGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.99 Type2
+>seq119
+GUUUCCGCAAGGGGAA
+(((((((..))))))) 0 Type0
+..((((((..)))))) 1.37 Type4
+>seq120
+GUUUCGGCAACGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.83 Type2
+>seq121
+GUUUCUGCAAGGGGAA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.7 Type1
+..((((((..)))))) 1.38 Type4
+>seq122
+GUUUCGGCAAUGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.48 Type2
+>seq123
+GUUUGGGCAACCGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.84 Type2
+>seq124
+GUUUGGGCAAUCGGAA
+(((((((..))))))) 0 Type0
+>seq125
+GUUUUUGCAAAGGGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.12 Type2
+((((((..)))))).. 3.09 Type3
+>seq126
+GUUUUAGCAAUGGGAA
+(((((((..))))))) 0 Type0
+>seq127
+GUUUUCGCAAGGGGAA
+(((((((..))))))) 0 Type0
+>seq128
+GUUUUGGCAACGGGAA
+(((((((..))))))) 0 Type0
+>seq129
+GUUUUGGCAAUGGGAA
+(((((((..))))))) 0 Type0
+>seq130
+GUUUGAGCAAUUGGAA
+(((((((..))))))) 0 Type0
+>seq131
+GUUUGGGCAACUGGAA
+(((((((..))))))) 0 Type0
+>seq132
+GUUGGGGCAACCUGAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.82 Type2
+((((((...)))))). 4.03 Type1
+>seq133
+GUUGGGGCAAUCUGAA
+(((((((..))))))) 0 Type0
+>seq134
+GUUGGAGCAAUUUGAA
+(((((((..))))))) 0 Type0
+>seq135
+GUUGGGGCAACUUGAA
+(((((((..))))))) 0 Type0
+>seq136
+GUUGGGGCAAUUUGAA
+(((((((..))))))) 0 Type0
+>seq137
+GUGAAAGCAAUUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.81 Type2
+>seq138
+GUGAAGGCAACUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.19 Type2
+>seq139
+GUGAAGGCAAUUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+>seq140
+GUGAGGGCAACCUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.19 Type2
+>seq141
+GUGAGGGCAAUCUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.83 Type2
+>seq142
+GUGAGAGCAAUUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.81 Type2
+>seq143
+GUGAGGGCAACUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.22 Type2
+((((((...)))))). 4.19 Type1
+>seq144
+GUGAGGGCAAUUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.86 Type2
+>seq145
+GUGGGGGCAACCCUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.27 Type2
+((((((...)))))). 4.16 Type1
+>seq146
+GUGGGGGCAAUCCUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.92 Type2
+((((((...)))))). 4.17 Type1
+>seq147
+GUGGGAGCAAUUCUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.84 Type2
+>seq148
+GUGGGGGCAACUCUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.27 Type2
+((((((...)))))). 4.17 Type1
+>seq149
+GUGGGGGCAAUUCUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.91 Type2
+>seq150
+GUGGAAGCAAUUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.86 Type2
+>seq151
+GUGGAGGCAACUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.25 Type2
+>seq152
+GUGGAGGCAAUUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.92 Type2
+>seq153
+GUGGGGGCAACCUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.28 Type2
+((((((...)))))). 4.17 Type1
+((((((..)))))).. 4.3 Type3
+>seq154
+GUGGGGGCAAUCUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.91 Type2
+>seq155
+GUGGGAGCAAUUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.87 Type2
+>seq156
+GUGGGGGCAACUUUAA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.28 Type2
+>seq157
+GGGGGAGCAAUUCCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.65 Type2
+((((((...)))))). 5.12 Type1
+>seq158
+GGGGGGGCAACUCCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.09 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.6 Type3
+>seq159
+GGGGGGGCAAUUCCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.72 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.59 Type3
+>seq160
+GGGGAAGCAAUUUCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.65 Type2
+>seq161
+GGGGAGGCAACUUCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.03 Type2
+>seq162
+GGGGAGGCAAUUUCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.7 Type2
+((((((...)))))). 2.41 Type1
+>seq163
+GGGGGGGCAACCUCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.09 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.6 Type3
+>seq164
+GGGGGGGCAAUCUCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.59 Type3
+>seq165
+GGGGGAGCAAUUUCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.68 Type2
+>seq166
+GGGGGGGCAACUUCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.09 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.59 Type3
+>seq167
+GGGGGGGCAAUUUCCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.36 Type1
+>seq168
+GGGAAAGCAAUUUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.65 Type2
+>seq169
+GGGAAGGCAACUUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.04 Type2
+>seq170
+GGGAAGGCAAUUUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.7 Type2
+((((((...)))))). 2.4 Type1
+>seq171
+GGGAGGGCAACCUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.03 Type2
+>seq172
+GGGAGGGCAAUCUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.68 Type2
+((((((..)))))).. 4.31 Type3
+>seq173
+GGGAGAGCAAUUUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.65 Type2
+>seq174
+GGGAGGGCAACUUUCA
+(((((((..))))))) 0 Type0
+((((((...)))))). 2.38 Type1
+>seq175
+GGGAGGGCAAUUUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.7 Type2
+((((((...)))))). 2.36 Type1
+>seq176
+GGGGGGGCAACCCUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.09 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.32 Type3
+>seq177
+GGGGGGGCAAUCCUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.31 Type3
+>seq178
+GGGGGAGCAAUUCUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.65 Type2
+>seq179
+GGGGGGGCAAUUCUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.31 Type3
+>seq180
+GGGGAAGCAAUUUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.68 Type2
+>seq181
+GGGGAGGCAACUUUCA
+(((((((..))))))) 0 Type0
+>seq182
+GGGGAGGCAAUUUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.41 Type1
+>seq183
+GGGGGGGCAACCUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.09 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.31 Type3
+>seq184
+GGGGGGGCAAUCUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.31 Type3
+>seq185
+GGGGGAGCAAUUUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.68 Type2
+>seq186
+GGGGGGGCAACUUUCA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.09 Type2
+((((((...)))))). 2.36 Type1
+((((((..)))))).. 4.31 Type3
+>seq187
+GUUUUGGCAACAAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq188
+GUUUUUGCAAGAAAGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.26 Type1
+((((((..)))))).. 2.48 Type3
+..((((((..)))))) 1.77 Type4
+>seq189
+GUUUUGGCAAUAAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.92 Type2
+((((((...)))))). 3.73 Type1
+((((((..)))))).. 3.29 Type3
+>seq190
+GUUUGGGCAACCAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq191
+GUUUGGGCAAUCAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.95 Type2
+>seq192
+GUUUUUGCAAAGAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.12 Type2
+((((((...)))))). 3.26 Type1
+((((((..)))))).. 2.48 Type3
+>seq193
+GUUUUAGCAAUGAAGA
+(((((((..))))))) 0 Type0
+>seq194
+GUUUUCGCAAGGAAGA
+(((((((..))))))) 0 Type0
+>seq195
+GUUUUGGCAACGAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.81 Type2
+>seq196
+GUUUUUGCAAGGAAGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.26 Type1
+((((((..)))))).. 2.48 Type3
+..((((((..)))))) 1.44 Type4
+>seq197
+GUUUUGGCAAUGAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.46 Type2
+((((((...)))))). 3.57 Type1
+((((((..)))))).. 3.13 Type3
+>seq198
+GUUUGAGCAAUUAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.82 Type2
+>seq199
+GUUUGGGCAACUAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.28 Type2
+((((((...)))))). 3.73 Type1
+>seq200
+GUUUGGGCAAUUAAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.91 Type2
+((((((...)))))). 3.72 Type1
+>seq201
+GUUGGGGCAACCCAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq202
+GUUGGGGCAAUCCAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.95 Type2
+>seq203
+GUUGGAGCAAUUCAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.88 Type2
+>seq204
+GUUGGGGCAACUCAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq205
+GUUGGGGCAAUUCAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.95 Type2
+>seq206
+GUUUUUGCAAAAGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.12 Type2
+((((((...)))))). 3.26 Type1
+((((((..)))))).. 2.47 Type3
+>seq207
+GUUUUGGCAACAGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq208
+GUUUUGGCAAUAGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.92 Type2
+((((((..)))))).. 3.28 Type3
+>seq209
+GUUUAAGCAAUUGAGA
+(((((((..))))))) 0 Type0
+>seq210
+GUUUAGGCAACUGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.18 Type2
+>seq211
+GUUUAGGCAAUUGAGA
+(((((((..))))))) 0 Type0
+>seq212
+GUUUCUGCAAAGGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.03 Type2
+>seq213
+GUUUCAGCAAUGGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.89 Type2
+>seq214
+GUUUCCGCAAGGGAGA
+(((((((..))))))) 0 Type0
+>seq215
+GUUUCGGCAACGGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+>seq216
+GUUUCUGCAAGGGAGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.24 Type1
+>seq217
+GUUUCGGCAAUGGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.38 Type2
+>seq218
+GUUUGGGCAACCGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+>seq219
+GUUUGGGCAAUCGAGA
+(((((((..))))))) 0 Type0
+>seq220
+GUUUUUGCAAAGGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.12 Type2
+((((((...)))))). 3.26 Type1
+((((((..)))))).. 2.47 Type3
+>seq221
+GUUUUAGCAAUGGAGA
+(((((((..))))))) 0 Type0
+>seq222
+GUUUUCGCAAGGGAGA
+(((((((..))))))) 0 Type0
+>seq223
+GUUUUGGCAACGGAGA
+(((((((..))))))) 0 Type0
+>seq224
+GUUUUUGCAAGGGAGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.25 Type1
+((((((..)))))).. 2.47 Type3
+..((((((..)))))) 1.49 Type4
+>seq225
+GUUUUGGCAAUGGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.51 Type2
+((((((..)))))).. 3.12 Type3
+>seq226
+GUUUGGGCAACUGAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.83 Type2
+((((((...)))))). 3.57 Type1
+>seq227
+GUUUGGGCAAUUGAGA
+(((((((..))))))) 0 Type0
+>seq228
+GUUGAAGCAAUUUAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.82 Type2
+>seq229
+GUUGAGGCAACUUAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.2 Type2
+>seq230
+GUUGAGGCAAUUUAGA
+(((((((..))))))) 0 Type0
+>seq231
+GUUGGGGCAACCUAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.28 Type2
+((((((...)))))). 3.73 Type1
+>seq232
+GUUGGGGCAAUCUAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.92 Type2
+((((((...)))))). 3.72 Type1
+>seq233
+GUUGGAGCAAUUUAGA
+(((((((..))))))) 0 Type0
+>seq234
+GUUGGGGCAACUUAGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.28 Type2
+((((((...)))))). 3.72 Type1
+>seq235
+GUUGGGGCAAUUUAGA
+(((((((..))))))) 0 Type0
+>seq236
+GUAAAGGCAACUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.27 Type2
+>seq237
+GUAAAGGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.93 Type2
+((((((...)))))). 3.67 Type1
+>seq238
+GUAAGGGCAACCUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.27 Type2
+>seq239
+GUAAGGGCAAUCUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.9 Type2
+>seq240
+GUAAGAGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.89 Type2
+>seq241
+GUAAGGGCAACUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.28 Type2
+((((((...)))))). 3.64 Type1
+>seq242
+GUAAGGGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.92 Type2
+((((((..)))))).. 3.11 Type3
+>seq243
+GUAGGGGCAACCCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.18 Type2
+>seq244
+GUAGGGGCAAUCCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.83 Type2
+>seq245
+GUAGGAGCAAUUCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.75 Type2
+>seq246
+GUAGGGGCAACUCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.19 Type2
+>seq247
+GUAGGGGCAAUUCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.83 Type2
+>seq248
+GUAGAAGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+>seq249
+GUAGAGGCAACUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.19 Type2
+>seq250
+GUAGAGGCAAUUUUGA
+(((((((..))))))) 0 Type0
+>seq251
+GUAGGGGCAACCUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.21 Type2
+((((((...)))))). 3.65 Type1
+>seq252
+GUAGGGGCAAUCUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+((((((...)))))). 3.65 Type1
+>seq253
+GUAGGAGCAAUUUUGA
+(((((((..))))))) 0 Type0
+>seq254
+GUAGGGGCAACUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.21 Type2
+((((((...)))))). 3.62 Type1
+((((((..)))))).. 3.08 Type3
+>seq255
+GUAGGGGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+((((((..)))))).. 3.06 Type3
+>seq256
+GUCUUUGCAAAAAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.03 Type2
+>seq257
+GUCUUGGCAACAAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.22 Type2
+>seq258
+GUCUUUGCAAGAAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.99 Type2
+>seq259
+GUCUUGGCAAUAAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.83 Type2
+>seq260
+GUCUGGGCAACCAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.22 Type2
+>seq261
+GUCUGGGCAAUCAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.86 Type2
+>seq262
+GUCUUUGCAAAGAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.03 Type2
+((((((..)))))).. 1.83 Type3
+>seq263
+GUCUUAGCAAUGAGGA
+(((((((..))))))) 0 Type0
+>seq264
+GUCUUCGCAAGGAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.92 Type2
+>seq265
+GUCUUGGCAACGAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.71 Type2
+>seq266
+GUCUUUGCAAGGAGGA
+(((((((..))))))) 0 Type0
+((((((..)))))).. 1.85 Type3
+>seq267
+GUCUUGGCAAUGAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.37 Type2
+((((((..)))))).. 2.5 Type3
+>seq268
+GUCUGAGCAAUUAGGA
+(((((((..))))))) 0 Type0
+>seq269
+GUCUGGGCAACUAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.19 Type2
+>seq270
+GUCUGGGCAAUUAGGA
+(((((((..))))))) 0 Type0
+>seq271
+GUCAAAGCAAUUUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.97 Type2
+>seq272
+GUCAAGGCAACUUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.35 Type2
+>seq273
+GUCAAGGCAAUUUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.01 Type2
+>seq274
+GUCAGGGCAACCUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.28 Type2
+>seq275
+GUCAGGGCAAUCUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.91 Type2
+>seq276
+GUCAGAGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq277
+GUCAGGGCAACUUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.3 Type2
+>seq278
+GUCAGGGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq279
+GUCCUUGCAAAAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.03 Type2
+>seq280
+GUCCUGGCAACAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.23 Type2
+>seq281
+GUCCUUGCAAGAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.99 Type2
+>seq282
+GUCCUGGCAAUAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.83 Type2
+>seq283
+GUCCAAGCAAUUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.97 Type2
+>seq284
+GUCCAGGCAACUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.27 Type2
+>seq285
+GUCCAGGCAAUUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.93 Type2
+>seq286
+GUCCCUGCAAAGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.03 Type2
+>seq287
+GUCCCAGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.89 Type2
+>seq288
+GUCCCGGCAACGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.74 Type2
+>seq289
+GUCCCUGCAAGGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 4.02 Type2
+((((((...)))))). 3.19 Type1
+>seq290
+GUCCCGGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.37 Type2
+>seq291
+GUCCGGGCAAUCGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.37 Type2
+>seq292
+GUCCUUGCAAAGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.01 Type2
+((((((...)))))). 3.19 Type1
+>seq293
+GUCCUAGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+>seq294
+GUCCUCGCAAGGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 4.01 Type2
+>seq295
+GUCCUGGCAACGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.74 Type2
+>seq296
+GUCCUUGCAAGGGGGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.21 Type1
+((((((..)))))).. 1.86 Type3
+>seq297
+GUCCUGGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.4 Type2
+((((((...)))))). 3.52 Type1
+>seq298
+GUCCGAGCAAUUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.29 Type2
+>seq299
+GUCCGGGCAACUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.74 Type2
+>seq300
+GUCCGGGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq301
+GUCGGGGCAACCCGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.74 Type2
+>seq302
+GUCGGGGCAAUCCGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.38 Type2
+>seq303
+GUCUUUGCAAAAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.01 Type2
+((((((...)))))). 3.19 Type1
+>seq304
+GUCUUGGCAACAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.2 Type2
+>seq305
+GUCUUUGCAAGAGGGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.19 Type1
+>seq306
+GUCUUGGCAAUAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.82 Type2
+((((((...)))))). 3.66 Type1
+>seq307
+GUCUAAGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq308
+GUCUAGGCAACUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.23 Type2
+>seq309
+GUCUAGGCAAUUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.89 Type2
+((((((...)))))). 3.68 Type1
+>seq310
+GUCUCUGCAAAGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.04 Type2
+>seq311
+GUCUCAGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.89 Type2
+>seq312
+GUCUCCGCAAGGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 4.01 Type2
+>seq313
+GUCUCGGCAACGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.74 Type2
+>seq314
+GUCUCGGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.38 Type2
+>seq315
+GUCUGGGCAACCGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.74 Type2
+>seq316
+GUCUGGGCAAUCGGGA
+(((((((..))))))) 0 Type0
+>seq317
+GUCUUUGCAAAGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.02 Type2
+((((((...)))))). 3.22 Type1
+((((((..)))))).. 1.87 Type3
+>seq318
+GUCUUAGCAAUGGGGA
+(((((((..))))))) 0 Type0
+>seq319
+GUCUUCGCAAGGGGGA
+(((((((..))))))) 0 Type0
+>seq320
+GUCUUGGCAACGGGGA
+(((((((..))))))) 0 Type0
+>seq321
+GUCUUUGCAAGGGGGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.21 Type1
+((((((..)))))).. 1.89 Type3
+>seq322
+GUCUUGGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.41 Type2
+((((((..)))))).. 2.55 Type3
+>seq323
+GUCUGAGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq324
+GUCUGGGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq325
+GUCGAAGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq326
+GUCGAGGCAACUUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.67 Type2
+>seq327
+GUCGAGGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq328
+GUCGGGGCAACCUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+>seq329
+GUCGGGGCAAUCUGGA
+(((((((..))))))) 0 Type0
+>seq330
+GUCGGAGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq331
+GUCGGGGCAACUUGGA
+(((((((..))))))) 0 Type0
+>seq332
+GUCGGGGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq333
+GUGGGGGCAAUCCCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.44 Type2
+>seq334
+GUGGGAGCAAUUCCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.37 Type2
+>seq335
+GUGGGGGCAACUCCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+>seq336
+GUGGGGGCAAUUCCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.44 Type2
+>seq337
+GUGGAAGCAAUUUCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.37 Type2
+>seq338
+GUGGAGGCAACUUCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.75 Type2
+>seq339
+GUGGAGGCAAUUUCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.41 Type2
+>seq340
+GUGGGGGCAACCUCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+((((((..)))))).. 3.2 Type3
+>seq341
+GUGGGGGCAAUCUCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.44 Type2
+((((((..)))))).. 3.2 Type3
+>seq342
+GUGGGAGCAAUUUCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.39 Type2
+>seq343
+GUGGGGGCAACUUCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+((((((..)))))).. 3.2 Type3
+>seq344
+GUGGGGGCAAUUUCGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.44 Type2
+((((((..)))))).. 3.2 Type3
+>seq345
+GUUUUUGCAAAAAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.12 Type2
+((((((...)))))). 3.21 Type1
+((((((..)))))).. 1.94 Type3
+>seq346
+GUUUUGGCAACAAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.3 Type2
+>seq347
+GUUUUUGCAAGAAGGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.21 Type1
+((((((..)))))).. 1.94 Type3
+..((((((..)))))) 1.76 Type4
+>seq348
+GUUUUGGCAAUAAGGA
+(((((((..))))))) 0 Type0
+((((((..)))))).. 2.75 Type3
+>seq349
+GUUUGGGCAACCAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.31 Type2
+>seq350
+GUUUGGGCAAUCAGGA
+(((((((..))))))) 0 Type0
+>seq351
+GUUUUUGCAAAGAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.12 Type2
+((((((...)))))). 3.21 Type1
+((((((..)))))).. 1.94 Type3
+>seq352
+GUUUUAGCAAUGAGGA
+(((((((..))))))) 0 Type0
+>seq353
+GUUUUCGCAAGGAGGA
+(((((((..))))))) 0 Type0
+>seq354
+GUUUUGGCAACGAGGA
+(((((((..))))))) 0 Type0
+>seq355
+GUUUUUGCAAGGAGGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.21 Type1
+((((((..)))))).. 1.93 Type3
+..((((((..)))))) 1.44 Type4
+>seq356
+GUUUUGGCAAUGAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.46 Type2
+((((((..)))))).. 2.59 Type3
+>seq357
+GUUUGAGCAAUUAGGA
+(((((((..))))))) 0 Type0
+>seq358
+GUUUGGGCAACUAGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.28 Type2
+((((((...)))))). 3.68 Type1
+>seq359
+GUUUGGGCAAUUAGGA
+(((((((..))))))) 0 Type0
+>seq360
+GUUAAAGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq361
+GUUAAGGCAACUUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.42 Type2
+>seq362
+GUUAAGGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq363
+GUUAGGGCAACCUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.34 Type2
+>seq364
+GUUAGGGCAAUCUGGA
+(((((((..))))))) 0 Type0
+>seq365
+GUUAGAGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq366
+GUUAGGGCAACUUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.37 Type2
+((((((...)))))). 3.66 Type1
+>seq367
+GUUAGGGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq368
+GUUCUUGCAAAAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.14 Type2
+>seq369
+GUUCUGGCAACAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.33 Type2
+>seq370
+GUUCUUGCAAGAGGGA
+(((((((..))))))) 0 Type0
+((((((..)))))).. 1.79 Type3
+..((((((..)))))) 1.68 Type4
+>seq371
+GUUCUGGCAAUAGGGA
+(((((((..))))))) 0 Type0
+>seq372
+GUUCAAGCAAUUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.07 Type2
+>seq373
+GUUCAGGCAACUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.39 Type2
+>seq374
+GUUCAGGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq375
+GUUCCUGCAAAGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.14 Type2
+>seq376
+GUUCCAGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.99 Type2
+>seq377
+GUUCCCGCAAGGGGGA
+(((((((..))))))) 0 Type0
+..((((((..)))))) 1.38 Type4
+>seq378
+GUUCCGGCAACGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.84 Type2
+>seq379
+GUUCCUGCAAGGGGGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.19 Type1
+..((((((..)))))) 1.38 Type4
+>seq380
+GUUCCGGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.49 Type2
+>seq381
+GUUCGGGCAACCGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.84 Type2
+>seq382
+GUUCUUGCAAAGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.13 Type2
+((((((...)))))). 3.2 Type1
+>seq383
+GUUCUAGCAAUGGGGA
+(((((((..))))))) 0 Type0
+>seq384
+GUUCUCGCAAGGGGGA
+(((((((..))))))) 0 Type0
+>seq385
+GUUCUGGCAACGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+>seq386
+GUUCUUGCAAGGGGGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.21 Type1
+((((((..)))))).. 1.87 Type3
+..((((((..)))))) 1.39 Type4
+>seq387
+GUUCUGGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.51 Type2
+>seq388
+GUUCGAGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq389
+GUUCGGGCAACUGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.84 Type2
+>seq390
+GUUCGGGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq391
+GUUGGGGCAACCCGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+>seq392
+GUUGGGGCAAUCCGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.49 Type2
+>seq393
+GUUGGAGCAAUUCGGA
+(((((((..))))))) 0 Type0
+>seq394
+GUUGGGGCAACUCGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+>seq395
+GUUGGGGCAAUUCGGA
+(((((((..))))))) 0 Type0
+>seq396
+GUUUUUGCAAAAGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.12 Type2
+((((((...)))))). 3.21 Type1
+((((((..)))))).. 1.89 Type3
+>seq397
+GUUUUGGCAACAGGGA
+(((((((..))))))) 0 Type0
+>seq398
+GUUUUUGCAAGAGGGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.21 Type1
+((((((..)))))).. 1.88 Type3
+..((((((..)))))) 1.76 Type4
+>seq399
+GUUUUGGCAAUAGGGA
+(((((((..))))))) 0 Type0
+((((((..)))))).. 2.69 Type3
+>seq400
+GUUUAAGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq401
+GUUUAGGCAACUGGGA
+(((((((..))))))) 0 Type0
+>seq402
+GUUUAGGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq403
+GUUUCUGCAAAGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.15 Type2
+>seq404
+GUUUCAGCAAUGGGGA
+(((((((..))))))) 0 Type0
+>seq405
+GUUUCCGCAAGGGGGA
+(((((((..))))))) 0 Type0
+>seq406
+GUUUCGGCAACGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.84 Type2
+>seq407
+GUUUCUGCAAGGGGGA
+(((((((..))))))) 0 Type0
+((((((...)))))). 3.19 Type1
+..((((((..)))))) 1.49 Type4
+>seq408
+GUUUCGGCAAUGGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.49 Type2
+>seq409
+GUUUGGGCAACCGGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.85 Type2
+>seq410
+GUUUGGGCAAUCGGGA
+(((((((..))))))) 0 Type0
+>seq411
+GUUUGAGCAAUUGGGA
+(((((((..))))))) 0 Type0
+>seq412
+GUUUGGGCAACUGGGA
+(((((((..))))))) 0 Type0
+>seq413
+GUUGAAGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq414
+GUUGAGGCAACUUGGA
+(((((((..))))))) 0 Type0
+>seq415
+GUUGAGGCAAUUUGGA
+(((((((..))))))) 0 Type0
+>seq416
+GUUGGGGCAACCUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.87 Type2
+((((((...)))))). 3.52 Type1
+>seq417
+GUUGGGGCAAUCUGGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.51 Type2
+((((((...)))))). 3.52 Type1
+>seq418
+GUGAAAGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.38 Type2
+>seq419
+GUGAAGGCAACUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.76 Type2
+>seq420
+GUGAAGGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.42 Type2
+>seq421
+GUGAGGGCAACCUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.76 Type2
+>seq422
+GUGAGGGCAAUCUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.4 Type2
+((((((..)))))).. 2.95 Type3
+>seq423
+GUGAGAGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.38 Type2
+>seq424
+GUGAGGGCAACUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.78 Type2
+((((((...)))))). 3.53 Type1
+>seq425
+GUGAGGGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.42 Type2
+((((((..)))))).. 2.99 Type3
+>seq426
+GUGGGGGCAACCCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.82 Type2
+((((((...)))))). 3.51 Type1
+>seq427
+GUGGGGGCAAUCCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.46 Type2
+((((((...)))))). 3.51 Type1
+>seq428
+GUGGGAGCAAUUCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.39 Type2
+>seq429
+GUGGGGGCAACUCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.83 Type2
+((((((...)))))). 3.52 Type1
+>seq430
+GUGGGGGCAAUUCUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.46 Type2
+((((((...)))))). 3.51 Type1
+>seq431
+GUGGAAGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.41 Type2
+>seq432
+GUGGAGGCAACUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.8 Type2
+>seq433
+GUGGAGGCAAUUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.46 Type2
+>seq434
+GUGGGGGCAACCUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.82 Type2
+((((((...)))))). 3.51 Type1
+((((((..)))))).. 2.95 Type3
+>seq435
+GUGGGGGCAAUCUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.46 Type2
+((((((...)))))). 3.51 Type1
+((((((..)))))).. 2.95 Type3
+>seq436
+GUGGGAGCAAUUUUGA
+(((((((..))))))) 0 Type0
+>seq437
+GUGGGGGCAACUUUGA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.82 Type2
+((((((...)))))). 3.51 Type1
+((((((..)))))).. 2.95 Type3
+>seq438
+GGAAAGGCAACUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.0 Type2
+>seq439
+GGAAAGGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.67 Type2
+((((((...)))))). 2.13 Type1
+>seq440
+GGAAGGGCAACCUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.01 Type2
+>seq441
+GGAAGGGCAAUCUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.65 Type2
+>seq442
+GGAAGAGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.62 Type2
+>seq443
+GGAAGGGCAACUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.03 Type2
+((((((...)))))). 2.11 Type1
+>seq444
+GGAAGGGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.67 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.51 Type3
+>seq445
+GGAGGGGCAACCCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.01 Type2
+>seq446
+GGAGGGGCAAUCCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.64 Type2
+>seq447
+GGAGGAGCAAUUCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.58 Type2
+>seq448
+GGAGGGGCAACUCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.0 Type2
+((((((..)))))).. 2.43 Type3
+>seq449
+GGAGGGGCAAUUCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.64 Type2
+((((((..)))))).. 2.41 Type3
+>seq450
+GGAGAAGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.62 Type2
+>seq451
+GGAGAGGCAACUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.0 Type2
+>seq452
+GGAGGGGCAACCUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.03 Type2
+((((((...)))))). 2.1 Type1
+>seq453
+GGAGGGGCAAUCUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.66 Type2
+((((((...)))))). 2.1 Type1
+>seq454
+GGAGGAGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.62 Type2
+>seq455
+GGAGGGGCAACUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.02 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.47 Type3
+>seq456
+GGAGGGGCAAUUUUUA
+(((((((..))))))) 0 Type0
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.45 Type3
+>seq457
+GGGGGGGCAAUCCCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.72 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.73 Type3
+>seq458
+GGGGGAGCAAUUCCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.66 Type2
+>seq459
+GGGGGGGCAACUCCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.08 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.73 Type3
+>seq460
+GGGGGGGCAAUUCCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.72 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.73 Type3
+>seq461
+GGGGAAGCAAUUUCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.65 Type2
+>seq462
+GGGGAGGCAACUUCUA
+(((((((..))))))) 0 Type0
+>seq463
+GGGGAGGCAAUUUCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.69 Type2
+((((((...)))))). 2.12 Type1
+>seq464
+GGGGGGGCAACCUCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.08 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.73 Type3
+>seq465
+GGGGGAGCAAUUUCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.68 Type2
+>seq466
+GGGGGGGCAACUUCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.09 Type2
+((((((...)))))). 2.09 Type1
+((((((..)))))).. 2.73 Type3
+>seq467
+GGGGGGGCAAUUUCUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.09 Type1
+((((((..)))))).. 2.74 Type3
+>seq468
+GGGAAAGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.68 Type2
+>seq469
+GGGAAGGCAACUUUUA
+(((((((..))))))) 0 Type0
+>seq470
+GGGAAGGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.13 Type1
+>seq471
+GGGAGGGCAACCUUUA
+(((((((..))))))) 0 Type0
+>seq472
+GGGAGGGCAAUCUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.7 Type2
+((((((..)))))).. 2.45 Type3
+>seq473
+GGGAGAGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.68 Type2
+>seq474
+GGGAGGGCAACUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.08 Type2
+((((((...)))))). 2.1 Type1
+>seq475
+GGGAGGGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.72 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.5 Type3
+>seq476
+GGGGGGGCAACCCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.08 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.46 Type3
+>seq477
+GGGGGGGCAAUCCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.72 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.45 Type3
+>seq478
+GGGGGAGCAAUUCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.65 Type2
+>seq479
+GGGGGGGCAACUCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.09 Type2
+((((((...)))))). 2.09 Type1
+((((((..)))))).. 2.46 Type3
+>seq480
+GGGGGGGCAAUUCUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.09 Type1
+((((((..)))))).. 2.46 Type3
+>seq481
+GGGGAAGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.68 Type2
+>seq482
+GGGGAGGCAACUUUUA
+(((((((..))))))) 0 Type0
+>seq483
+GGGGAGGCAAUUUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.72 Type2
+((((((...)))))). 2.13 Type1
+>seq484
+GGGGGGGCAACCUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 3.08 Type2
+((((((...)))))). 2.08 Type1
+((((((..)))))).. 2.45 Type3
+>seq485
+GGGGGGGCAAUCUUUA
+(((((((..))))))) 0 Type0
+.((((((...)))))) 2.73 Type2
+((((((...)))))). 2.09 Type1
+((((((..)))))).. 2.46 Type3

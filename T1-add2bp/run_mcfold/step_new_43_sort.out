@@ -1,0 +1,56 @@
+>seq24
+GGGGGAAGGGCAACUUUUCUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    0.57    Type1
+>seq10
+GGGGAAGGGGCAACUUUUCUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    0.58    Type1
+>seq4
+GGGGAAAGGGCAACUUUUCUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    0.59    Type1
+>seq17
+GGGGAGAGGGCAACUUUUCUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    0.59    Type1
+>seq22
+GGGGGAAGGGCAACUUUCUCA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    0.59    Type1
+>seq8
+GGGGAAGGGGCAACCUUUCUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    0.60    Type1
+>seq21
+GGGGGAAGGGCAACUUUCCUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    0.60    Type1
+>seq23
+GGGGGAAGGGCAACUUUCUUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    0.60    Type1
+>seq30
+GGUGGAAGGGCAACUUUCUGA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    2.42    Type1
+>seq26
+GGGGUAAGGGCAACUUUGCUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    2.51    Type1
+>seq25
+GGGGUAAGGGCAACUUUACUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    2.63    Type1
+>seq14
+GGGGAAUGGGCAACUGUUCUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    2.71    Type1
+>seq29
+GGUGGAAGGGCAACUUUCUAA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    2.71    Type1
+>seq19
+GGGGAUAGGGCAACUUGUCUA
+.(((((((((..)))))))))    0.00    Type0
+(((((((((...)))))))))    2.78    Type1

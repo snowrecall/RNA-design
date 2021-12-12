@@ -1,0 +1,159 @@
+Content-Type: text/html
+
+<html>
+<head>
+<title>seq192</title>
+</head><body>
+<pre>MC-Fold version: `Mar 10 2008` `22:28:15`
+© Marc Parisien and Francois Major
+@ University of Montreal
+Parisien M, Major F. Nature (2008) 452:51-55.
+ 20:56:26 up 29 days, 21:39, 26 users,  load average: 2.68, 2.56, 2.45
+
+
+----------------------------------------------------------------------
+    Name: seq192
+    Mask: ****************
+Sequence: GUUUUUGCAAAGAAGA
+          1234567890123456
+                   1      
+
+----------------------------------------------------------------------
+Branched: yes
+ Knotted: no
+ MinLoop: 4
+ MaxLoop: 666
+MinHrpin: -1
+MaxHrpin: -1
+MaxDepth: 666
+MaxBulge: 2
+UseBulge: 2
+MaxHelix: 6700
+MinStemL: 3
+MeanNrgy: -1.0
+ CapNrgy: +0.5
+ Explore: 30%
+  Filter: no
+  Render: no
+   Top-N: 100
+Branches: 4
+
+
+</pre><H2><P><P><P>Folding in progress...<P><P><P></H2><pre>Score: -999.000 GUUUUUGCAAAGAAGA
+      progress: GUUUUUGCAAAGAAGA
+                      ^
+      progress: GUUUUUGCAAAGAAGA
+                       ^
+      progress: GUUUUUGCAAAGAAGA
+                     ^
+      progress: GUUUUUGCAAAGAAGA
+                        ^
+      progress: GUUUUUGCAAAGAAGA
+                    ^
+      progress: GUUUUUGCAAAGAAGA
+                         ^
+      progress: GUUUUUGCAAAGAAGA
+                   ^
+      progress: GUUUUUGCAAAGAAGA
+                          ^
+      progress: GUUUUUGCAAAGAAGA
+                  ^
+      progress: GUUUUUGCAAAGAAGA
+                           ^
+      progress: GUUUUUGCAAAGAAGA
+                 ^
+      progress: GUUUUUGCAAAGAAGA
+                            ^
+      progress: GUUUUUGCAAAGAAGA
+                ^
+      progress: GUUUUUGCAAAGAAGA
+                             ^
+      progress: GUUUUUGCAAAGAAGA
+                ^
+      progress: GUUUUUGCAAAGAAGA
+                              ^
+      progress: GUUUUUGCAAAGAAGA
+                ^
+</pre><P><H2>Multi-branched structures:
+<P></H2><pre>Of the pool of 175 helices,  keeping 175
+
+
+Performing Dynamic Programming...
+Best Dynamic Programming Solution has Energy: -13.33
+
+Performing Backtracking with Waterman-Byers Condition...
+
+
+Building the stem buddy list for backtracking...
+ 20:56:26 up 29 days, 21:39, 26 users,  load average: 2.68, 2.56, 2.45
+
+
+Backtracking with 1 variables (stems):
+domains have 175 elements.
+ 20:56:26 up 29 days, 21:39, 26 users,  load average: 2.68, 2.56, 2.45
+Score: -999.000 GUUUUUGCAAAGAAGA
+Total number of MB structures with 1 stems: 15
+(overlaps: 0, !energy: 160)
+</pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq192
+GUUUUUGCAAAGAAGA
+(((((((..))))))) -13.33 ( +0.00)
+.((((((..)))))). -11.73 ( +0.00)
+((((((....)))))) -11.47 ( +0.00)
+.((((((...)))))) -11.21 ( +0.00)
+.((((((..))))).) -10.86 ( +0.00)
+((((((..)))))).. -10.85 ( +0.00)
+((((((...)))))). -10.07 ( +0.00)
+..(((((..)))))..  -9.92 ( +0.00)
+.(((((....))))).  -9.88 ( +0.00)
+((((((...).)))))  -9.74 ( +0.00)
+.(((((...)..))))  -9.66 ( +0.00)
+(.(((((..)))))).  -9.45 ( +0.00)
+
+
+Backtracking with 2 variables (stems):
+domains have 175 elements.
+ 20:56:26 up 29 days, 21:39, 26 users,  load average: 2.68, 2.56, 2.45
+Score: -999.000 GUUUUUGCAAAGAAGA
+Total number of MB structures with 2 stems: 2
+(overlaps: 0, !energy: 167)
+
+
+Backtracking with 3 variables (stems):
+domains have 175 elements.
+ 20:56:27 up 29 days, 21:39, 26 users,  load average: 2.68, 2.56, 2.45
+Score: -999.000 GUUUUUGCAAAGAAGA
+Total number of MB structures with 3 stems: 0
+(overlaps: 0, !energy: 167)
+
+
+Backtracking with 4 variables (stems):
+domains have 175 elements.
+ 20:56:27 up 29 days, 21:39, 26 users,  load average: 2.68, 2.56, 2.45
+Score: -999.000 GUUUUUGCAAAGAAGA
+Total number of MB structures with 4 stems: 0
+(overlaps: 0, !energy: 167)
+</pre><P><H2>Explored 17 structures in 00:00:01 !!!
+<P></H2><pre></pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq192
+GUUUUUGCAAAGAAGA
+(((((((..))))))) -13.33 ( +0.00)
+.((((((..)))))). -11.73 ( +0.00)
+((((((....)))))) -11.47 ( +0.00)
+.((((((...)))))) -11.21 ( +0.00)
+.((((((..))))).) -10.86 ( +0.00)
+((((((..)))))).. -10.85 ( +0.00)
+((((((...)))))). -10.07 ( +0.00)
+..(((((..)))))..  -9.92 ( +0.00)
+.(((((....))))).  -9.88 ( +0.00)
+((((((...).)))))  -9.74 ( +0.00)
+.(((((...)..))))  -9.66 ( +0.00)
+(.(((((..)))))).  -9.45 ( +0.00)
+
+</pre><H3><P>Thank you for using MC-Fold!</H3>
+</body>
+</html>

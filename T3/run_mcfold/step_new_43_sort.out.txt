@@ -1,0 +1,376 @@
+>seq232
+GGAGGUGGCAACGUCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.33    Type3
+>seq297
+GGGCAUGGCAAUGUGCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.45    Type3
+>seq320
+GGGGAUGGCAAUGUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.45    Type3
+>seq256
+GGGUAUGGCAAUGUACA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.57    Type3
+>seq341
+GGGGGUGGCAACGUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.61    Type3
+>seq235
+GGAGGGGGCAACUUCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.67    Type3
+>seq230
+GGAGGGGGCAACCUCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.69    Type3
+>seq227
+GGAGGUGGCAACAUCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.72    Type3
+>seq207
+GGAAGGGGCAACUUUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.74    Type3
+>seq241
+GGAGGGGGCAACCUUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.74    Type3
+>seq193
+GGAUGUGGCAACGUAUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.78    Type3
+>seq204
+GGAAGUGGCAACGUUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.85    Type3
+>seq312
+GGGGAUGGCAAUAUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.86    Type3
+>seq263
+GGGUGUGGCAACGUACA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.89    Type3
+>seq89
+UGUGCUUGCAAGGGCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.90    Type3
+>seq271
+GGGAAUGGCAAUGUUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.94    Type3
+>seq339
+GGGGGGGGCAACCUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.94    Type3
+>seq344
+GGGGGGGGCAACUUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.94    Type3
+>seq358
+GGGGAGGGCAAUCUUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.94    Type3
+>seq365
+GGGGGGGGCAACCUUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.94    Type3
+>seq336
+GGGGGUGGCAACAUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.95    Type3
+>seq74
+UGUCCUUGCAAGGGGAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.96    Type3
+>seq316
+GGGGAGGGCAAUCUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.96    Type3
+>seq291
+GGGAGGGGCAACUUUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    0.99    Type3
+>seq275
+GGGAAGGGCAAUUUUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.01    Type3
+>seq324
+GGGGAGGGCAAUUUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.01    Type3
+>seq63
+UGUACGUGCAAGUGUAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.04    Type3
+>seq288
+GGGAGUGGCAACGUUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.04    Type3
+>seq61
+UGUACUUGCAAGGGUAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.10    Type3
+>seq91
+UGUGCGUGCAAGUGCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.18    Type3
+>seq86
+UGUGCUUGCAAGAGCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.19    Type3
+>seq87
+UGUGCGUGCAAGCGCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.20    Type3
+>seq48
+UGUUCUUGCAAGGGAAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.27    Type3
+>seq119
+UGAGGGGGCAACUUCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.50    Type3
+>seq113
+UGAAGGGGCAACUUUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.58    Type3
+>seq109
+UGAUGUGGCAACGUAUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.61    Type3
+>seq46
+UGUUAUGGCAAUGUAAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.68    Type3
+>seq111
+UGAAGUGGCAACGUUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.68    Type3
+>seq179
+GGUGCUUGCAAGGGCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.77    Type3
+>seq57
+UGUAAUGGCAAUGUUAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.83    Type3
+>seq164
+GGUACGUGCAAGUGUAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.88    Type3
+>seq71
+UGUAGGGGCAACUUUAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.91    Type3
+>seq103
+UGUGGGGGCAACUUCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.92    Type3
+>seq59
+UGUAAGGGCAAUUUUAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.93    Type3
+>seq69
+UGUAGUGGCAACGUUAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.93    Type3
+>seq162
+GGUACUUGCAAGGGUAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    1.94    Type3
+>seq84
+UGUGAGGGCAAUUUCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.00    Type3
+>seq51
+UGUUGUGGCAACGUAAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.01    Type3
+>seq169
+GGUCCUUGCAAGGGGAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.02    Type3
+>seq181
+GGUGCGUGCAAGUGCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.04    Type3
+>seq279
+GGGACGUGCAAGUGUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.04    Type3
+>seq326
+GGGGCGUGCAAGUGCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.05    Type3
+>seq176
+GGUGCUUGCAAGAGCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.06    Type3
+>seq177
+GGUGCGUGCAAGCGCAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.07    Type3
+>seq210
+GGACCUUGCAAGGGGUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.09    Type3
+>seq219
+GGAGCUUGCAAGGGCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.11    Type3
+>seq157
+GGUUCUUGCAAGGGAAA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.17    Type3
+>seq221
+GGAGCGUGCAAGUGCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.18    Type3
+>seq296
+GGGCAUUGCAAGGUGCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.19    Type3
+>seq217
+GGAGCGUGCAAGCGCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.22    Type3
+>seq307
+GGGGUUUGCAAGGACCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.22    Type3
+>seq255
+GGGUAUUGCAAGGUACA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.26    Type3
+>seq199
+GGAACGUGCAAGUGUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.29    Type3
+>seq258
+GGGUCUUGCAAGGGACA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.31    Type3
+>seq309
+GGGGUGUGCAAGUACCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.32    Type3
+>seq277
+GGGACUUGCAAGGGUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.33    Type3
+>seq251
+GGGUUUUGCAAGGAACA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.36    Type3
+>seq293
+GGGCUUUGCAAGGAGCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.36    Type3
+>seq305
+GGGGUGUGCAAGCACCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.36    Type3
+>seq303
+GGGGUUUGCAAGAACCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.37    Type3
+>seq319
+GGGGAUUGCAAGGUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.37    Type3
+>seq197
+GGAACUUGCAAGGGUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.39    Type3
+>seq351
+GGGGUGUGCAAGCAUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.39    Type3
+>seq267
+GGGAUGUGCAAGUAUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.47    Type3
+>seq37
+AGGGGUAGCAAUGCCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.48    Type3
+>seq190
+GGAUCUUGCAAGGGAUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.50    Type3
+>seq35
+AGGGGUAGCAAUACCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.59    Type3
+>seq265
+GGGAUUUGCAAGGAUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.65    Type3
+>seq405
+CGUCUUCGCAAGGAGGA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.65    Type3
+>seq408
+CGUGUUCGCAAGGACGA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.65    Type3
+>seq270
+GGGAAUUGCAAGGUUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.66    Type3
+>seq311
+GGGGAUUGCAAGAUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.66    Type3
+>seq357
+GGGGAGUGCAAGCUUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.68    Type3
+>seq315
+GGGGAGUGCAAGCUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.71    Type3
+>seq323
+GGGGAGUGCAAGUUCCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.72    Type3
+>seq274
+GGGAAGUGCAAGUUUCA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.79    Type3
+>seq17
+AGGUGUAGCAAUGCAUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.82    Type3
+>seq22
+AGGAGUAGCAAUGCUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.82    Type3
+>seq24
+AGGAGGAGCAAUUCUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.85    Type3
+>seq38
+AGGGGGAGCAAUUCCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.92    Type3
+>seq42
+AGGGGGAGCAAUCCUUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.92    Type3
+>seq36
+AGGGGGAGCAAUCCCUA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.95    Type3
+>seq401
+CGUUUUAGCAAUGAAGA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.98    Type3
+>seq402
+CGUUUUCGCAAGGAAGA
+.(((((((..)))))))    0.00    Type0
+(((((((..))))))).    2.98    Type3

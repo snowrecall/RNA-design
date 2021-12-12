@@ -1,0 +1,21 @@
+####generate sequences for MC-Fold####
+
+python step1_generate_all_possible_5bp267_minus1.py > 5bp267_minus1bp_all_possible.txt.save (##Removed one base pair from the stem region of T1-short and obtained 5 sequences.##)
+
+cat 5bp267_minus1bp_all_possible.txt | sort | uniq > 5bp267_minus1bp_all_possible.txt
+
+####operate MC-Fold Results####
+
+mkdir run_mcfold
+
+cp 5bp267_minus1bp_all_possible.txt run_mcfold
+
+./step2_run_mcfold.sh
+
+./step3_get_operate_file.sh (##The best 100-suboptimal MC-Fold solutions for each candidate RNA.##)
+
+./step_new_41_get_our_structures_and_deltaG.sh
+
+./step_new_42_to_run.sh > step_new_42_to_run.out (##The free energy difference between ground state and predefined excited state.##)
+
+python step_new_43_sort.py (##The qualified RNA sequences were sorted in ascending order of the free energy differences.##)(##The final output file is step_new_43_sort.out.##)

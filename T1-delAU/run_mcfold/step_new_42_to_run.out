@@ -1,0 +1,19 @@
+>seq1
+GGAAGGGCAACUUUC
+.((((((..)))))) 0 Type0
+((((((...)))))) 0.6 Type1
+>seq2
+GGAAGGGCAACUUUA
+.((((((..)))))) 0 Type0
+((((((...)))))) 0.63 Type1
+>seq3
+GGGAGGGCAACUUCA
+.((((((..)))))) 0 Type0
+((((((...)))))) 0.6 Type1
+>seq4
+GGGAAGGCAACUUCA
+.((((((..)))))) 0 Type0
+>seq5
+GGGAAGGCAAUUUCA
+.((((((..)))))) 0 Type0
+((((((...)))))) 0.62 Type1

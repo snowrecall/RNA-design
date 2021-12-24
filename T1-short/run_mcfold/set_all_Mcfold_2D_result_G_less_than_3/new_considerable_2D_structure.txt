@@ -1,7 +1,0 @@
-Type1=.(((((((..))))))) mean= 0.000 delta= 0.000 number= 788
-Type5=(((((((..))))))). mean= 1.900 delta= 0.540 number= 262
-Type6=(((((((...))))))) mean= 1.907 delta= 0.629 number= 433
-Type7=...((((((..)))))) mean= 2.002 delta= 0.506 number= 36
-Type11=((((((..))))))... mean= 2.392 delta= 0.208 number= 15
-Type12=..((((((...)))))) mean= 2.458 delta= 0.286 number= 43
-Type13=.((((((...).))))) mean= 2.512 delta= 0.113 number= 205

@@ -28,7 +28,7 @@ mkdir set_all_Mcfold_2D_result_G_less_than_3
 
 cd set_all_Mcfold_2D_result_G_less_than_3
 
-cp ../seq*_P5c.data  .
+mv ../seq*_P5c.data  .
 
 ./step1_get_operate_file.sh (##The best 100-suboptimal MC-Fold solutions for each candidate RNA.##)
 

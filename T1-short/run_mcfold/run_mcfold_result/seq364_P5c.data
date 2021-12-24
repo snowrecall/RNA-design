@@ -1,0 +1,184 @@
+Content-Type: text/html
+
+<html>
+<head>
+<title>seq364</title>
+</head><body>
+<pre>MC-Fold version: `Mar 10 2008` `22:28:15`
+© Marc Parisien and Francois Major
+@ University of Montreal
+Parisien M, Major F. Nature (2008) 452:51-55.
+ 13:59:10 up 8 days,  3:22, 15 users,  load average: 0.65, 0.62, 0.45
+
+
+----------------------------------------------------------------------
+    Name: seq364
+    Mask: *****************
+Sequence: GGGGUCCGCAAGGGCCA
+          12345678901234567
+                   1       
+
+----------------------------------------------------------------------
+Branched: yes
+ Knotted: no
+ MinLoop: 4
+ MaxLoop: 666
+MinHrpin: -1
+MaxHrpin: -1
+MaxDepth: 666
+MaxBulge: 2
+UseBulge: 2
+MaxHelix: 6650
+MinStemL: 3
+MeanNrgy: -1.0
+ CapNrgy: +0.5
+ Explore: 30%
+  Filter: no
+  Render: no
+   Top-N: 100
+Branches: 4
+
+
+</pre><H2><P><P><P>Folding in progress...<P><P><P></H2><pre>Score: -999.000 GGGGUCCGCAAGGGCCA
+      progress: GGGGUCCGCAAGGGCCA
+                      ^
+      progress: GGGGUCCGCAAGGGCCA
+                       ^
+      progress: GGGGUCCGCAAGGGCCA
+                     ^
+      progress: GGGGUCCGCAAGGGCCA
+                        ^
+      progress: GGGGUCCGCAAGGGCCA
+                    ^
+      progress: GGGGUCCGCAAGGGCCA
+                         ^
+      progress: GGGGUCCGCAAGGGCCA
+                   ^
+      progress: GGGGUCCGCAAGGGCCA
+                          ^
+      progress: GGGGUCCGCAAGGGCCA
+                  ^
+      progress: GGGGUCCGCAAGGGCCA
+                           ^
+      progress: GGGGUCCGCAAGGGCCA
+                 ^
+      progress: GGGGUCCGCAAGGGCCA
+                            ^
+      progress: GGGGUCCGCAAGGGCCA
+                ^
+      progress: GGGGUCCGCAAGGGCCA
+                             ^
+      progress: GGGGUCCGCAAGGGCCA
+                ^
+      progress: GGGGUCCGCAAGGGCCA
+                              ^
+      progress: GGGGUCCGCAAGGGCCA
+                ^
+      progress: GGGGUCCGCAAGGGCCA
+                               ^
+</pre><P><H2>Multi-branched structures:
+<P></H2><pre>Of the pool of 148 helices,  keeping 148
+
+
+Performing Dynamic Programming...
+Best Dynamic Programming Solution has Energy: -17.26
+
+Performing Backtracking with Waterman-Byers Condition...
+
+
+Building the stem buddy list for backtracking...
+ 13:59:10 up 8 days,  3:22, 15 users,  load average: 0.65, 0.62, 0.45
+
+
+Backtracking with 1 variables (stems):
+domains have 148 elements.
+ 13:59:10 up 8 days,  3:22, 15 users,  load average: 0.65, 0.62, 0.45
+Score: -999.000 GGGGUCCGCAAGGGCCA
+Total number of MB structures with 1 stems: 17
+(overlaps: 0, !energy: 131)
+</pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq364
+GGGGUCCGCAAGGGCCA
+.(((((((..))))))) -17.26 ( +0.00)
+.((((((....)))))) -16.12 ( +0.00)
+(.((((((..))))))) -15.72 ( +0.00)
+..((((((..)))))). -15.44 ( +0.00)
+(.(((((....)))))) -14.58 ( +0.00)
+..(((((....))))). -14.30 ( +0.00)
+.(.(((((..)))))). -14.27 ( +0.00)
+.(.((((....))))). -13.13 ( +0.00)
+((..((((..)))))). -12.63 ( +0.00)
+(((((((...))))))) -12.18 ( +0.00)
+
+
+Backtracking with 2 variables (stems):
+domains have 148 elements.
+ 13:59:11 up 8 days,  3:22, 15 users,  load average: 0.65, 0.62, 0.45
+Score: -999.000 GGGGUCCGCAAGGGCCA
+Total number of MB structures with 2 stems: 11
+(overlaps: 0, !energy: 151)
+</pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq364
+GGGGUCCGCAAGGGCCA
+.(((((((..))))))) -17.26 ( +0.00)
+.((((((....)))))) -16.12 ( +0.00)
+(.((((((..))))))) -15.72 ( +0.00)
+..((((((..)))))). -15.44 ( +0.00)
+(.(((((....)))))) -14.58 ( +0.00)
+..(((((....))))). -14.30 ( +0.00)
+.(.(((((..)))))). -14.27 ( +0.00)
+(((.((((..))))))) -14.20 ( +0.00)
+((((.(((..))))))) -13.55 ( +0.00)
+.(.((((....))))). -13.13 ( +0.00)
+(((.(((....)))))) -13.06 ( +0.00)
+((.(((((..))))))) -12.94 ( +0.00)
+((..((((..)))))). -12.63 ( +0.00)
+.(((.(((..))).))) -12.41 ( +0.00)
+(((..(((..))).))) -12.41 ( +0.00)
+(((((((...))))))) -12.18 ( +0.00)
+
+
+Backtracking with 3 variables (stems):
+domains have 148 elements.
+ 13:59:11 up 8 days,  3:22, 15 users,  load average: 0.65, 0.62, 0.45
+Score: -999.000 GGGGUCCGCAAGGGCCA
+Total number of MB structures with 3 stems: 0
+(overlaps: 0, !energy: 151)
+
+
+Backtracking with 4 variables (stems):
+domains have 148 elements.
+ 13:59:11 up 8 days,  3:22, 15 users,  load average: 0.65, 0.62, 0.45
+Score: -999.000 GGGGUCCGCAAGGGCCA
+Total number of MB structures with 4 stems: 0
+(overlaps: 0, !energy: 151)
+</pre><P><H2>Explored 28 structures in 00:00:01 !!!
+<P></H2><pre></pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq364
+GGGGUCCGCAAGGGCCA
+.(((((((..))))))) -17.26 ( +0.00)
+.((((((....)))))) -16.12 ( +0.00)
+(.((((((..))))))) -15.72 ( +0.00)
+..((((((..)))))). -15.44 ( +0.00)
+(.(((((....)))))) -14.58 ( +0.00)
+..(((((....))))). -14.30 ( +0.00)
+.(.(((((..)))))). -14.27 ( +0.00)
+(((.((((..))))))) -14.20 ( +0.00)
+((((.(((..))))))) -13.55 ( +0.00)
+.(.((((....))))). -13.13 ( +0.00)
+(((.(((....)))))) -13.06 ( +0.00)
+((.(((((..))))))) -12.94 ( +0.00)
+((..((((..)))))). -12.63 ( +0.00)
+(((..(((..))).))) -12.41 ( +0.00)
+.(((.(((..))).))) -12.41 ( +0.00)
+(((((((...))))))) -12.18 ( +0.00)
+
+</pre><H3><P>Thank you for using MC-Fold!</H3>
+</body>
+</html>

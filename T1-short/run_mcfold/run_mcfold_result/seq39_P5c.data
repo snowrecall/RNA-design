@@ -1,0 +1,189 @@
+Content-Type: text/html
+
+<html>
+<head>
+<title>seq39</title>
+</head><body>
+<pre>MC-Fold version: `Mar 10 2008` `22:28:15`
+© Marc Parisien and Francois Major
+@ University of Montreal
+Parisien M, Major F. Nature (2008) 452:51-55.
+ 13:51:11 up 8 days,  3:14, 15 users,  load average: 0.45, 0.29, 0.27
+
+
+----------------------------------------------------------------------
+    Name: seq39
+    Mask: *****************
+Sequence: GGUUCCUGCAAGGGGAA
+          12345678901234567
+                   1       
+
+----------------------------------------------------------------------
+Branched: yes
+ Knotted: no
+ MinLoop: 4
+ MaxLoop: 666
+MinHrpin: -1
+MaxHrpin: -1
+MaxDepth: 666
+MaxBulge: 2
+UseBulge: 2
+MaxHelix: 6650
+MinStemL: 3
+MeanNrgy: -1.0
+ CapNrgy: +0.5
+ Explore: 30%
+  Filter: no
+  Render: no
+   Top-N: 100
+Branches: 4
+
+
+</pre><H2><P><P><P>Folding in progress...<P><P><P></H2><pre>Score: -999.000 GGUUCCUGCAAGGGGAA
+      progress: GGUUCCUGCAAGGGGAA
+                      ^
+      progress: GGUUCCUGCAAGGGGAA
+                       ^
+      progress: GGUUCCUGCAAGGGGAA
+                     ^
+      progress: GGUUCCUGCAAGGGGAA
+                        ^
+      progress: GGUUCCUGCAAGGGGAA
+                    ^
+      progress: GGUUCCUGCAAGGGGAA
+                         ^
+      progress: GGUUCCUGCAAGGGGAA
+                   ^
+      progress: GGUUCCUGCAAGGGGAA
+                          ^
+      progress: GGUUCCUGCAAGGGGAA
+                  ^
+      progress: GGUUCCUGCAAGGGGAA
+                           ^
+      progress: GGUUCCUGCAAGGGGAA
+                 ^
+      progress: GGUUCCUGCAAGGGGAA
+                            ^
+      progress: GGUUCCUGCAAGGGGAA
+                ^
+      progress: GGUUCCUGCAAGGGGAA
+                             ^
+      progress: GGUUCCUGCAAGGGGAA
+                ^
+      progress: GGUUCCUGCAAGGGGAA
+                              ^
+      progress: GGUUCCUGCAAGGGGAA
+                ^
+      progress: GGUUCCUGCAAGGGGAA
+                               ^
+</pre><P><H2>Multi-branched structures:
+<P></H2><pre>Of the pool of 176 helices,  keeping 176
+
+
+Performing Dynamic Programming...
+Best Dynamic Programming Solution has Energy: -14.34
+
+Performing Backtracking with Waterman-Byers Condition...
+
+
+Building the stem buddy list for backtracking...
+ 13:51:11 up 8 days,  3:14, 15 users,  load average: 0.45, 0.29, 0.27
+
+
+Backtracking with 1 variables (stems):
+domains have 176 elements.
+ 13:51:11 up 8 days,  3:14, 15 users,  load average: 0.50, 0.30, 0.27
+Score: -999.000 GGUUCCUGCAAGGGGAA
+Total number of MB structures with 1 stems: 22
+(overlaps: 0, !energy: 154)
+</pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq39
+GGUUCCUGCAAGGGGAA
+.(((((((..))))))) -14.34 ( +0.00)
+(.((((((..))))))) -13.55 ( +0.00)
+.((((((....)))))) -13.20 ( +0.00)
+..((((((..)))))). -12.59 ( +0.00)
+(.(((((....)))))) -12.41 ( +0.00)
+(((((((...))))))) -12.15 ( +0.00)
+..((((((..).))))) -11.91 ( +0.00)
+.((((((...).))))) -11.87 ( +0.00)
+..(((((....))))). -11.45 ( +0.00)
+..(((((.(..)))))) -11.28 ( +0.00)
+..(((((...)..)))) -11.18 ( +0.00)
+..(((((.....))))) -11.11 ( +0.00)
+..(((((....).)))) -10.75 ( +0.00)
+.((((((...)))))). -10.64 ( +0.00)
+(((((((..).)))))) -10.48 ( +0.00)
+
+
+Backtracking with 2 variables (stems):
+domains have 176 elements.
+ 13:51:12 up 8 days,  3:14, 15 users,  load average: 0.50, 0.30, 0.27
+Score: -999.000 GGUUCCUGCAAGGGGAA
+Total number of MB structures with 2 stems: 5
+(overlaps: 0, !energy: 163)
+</pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq39
+GGUUCCUGCAAGGGGAA
+.(((((((..))))))) -14.34 ( +0.00)
+(.((((((..))))))) -13.55 ( +0.00)
+.((((((....)))))) -13.20 ( +0.00)
+..((((((..)))))). -12.59 ( +0.00)
+(.(((((....)))))) -12.41 ( +0.00)
+(((((((...))))))) -12.15 ( +0.00)
+..((((((..).))))) -11.91 ( +0.00)
+.((((((...).))))) -11.87 ( +0.00)
+..(((((....))))). -11.45 ( +0.00)
+..(((((.(..)))))) -11.28 ( +0.00)
+..(((((...)..)))) -11.18 ( +0.00)
+..(((((.....))))) -11.11 ( +0.00)
+..((((((..))).))) -10.80 ( +0.00)
+..(((((....).)))) -10.75 ( +0.00)
+.((((((...)))))). -10.64 ( +0.00)
+(((((((..).)))))) -10.48 ( +0.00)
+
+
+Backtracking with 3 variables (stems):
+domains have 176 elements.
+ 13:51:12 up 8 days,  3:14, 15 users,  load average: 0.50, 0.30, 0.27
+Score: -999.000 GGUUCCUGCAAGGGGAA
+Total number of MB structures with 3 stems: 0
+(overlaps: 0, !energy: 163)
+
+
+Backtracking with 4 variables (stems):
+domains have 176 elements.
+ 13:51:12 up 8 days,  3:14, 15 users,  load average: 0.50, 0.30, 0.27
+Score: -999.000 GGUUCCUGCAAGGGGAA
+Total number of MB structures with 4 stems: 0
+(overlaps: 0, !energy: 163)
+</pre><P><H2>Explored 27 structures in 00:00:01 !!!
+<P></H2><pre></pre><P><H2>Sorting the structures...
+<P></H2><pre></pre><H2><P><P><P>Filtered and Sorted solutions:<P><P><P></H2><pre>
+</pre><H2><P><P><P><a HREF="http://biwww2.informatik.uni-freiburg.de/Software/MARNA/index.html" target="_blank">MARNA</a>-formatted:<P><P><P></H2><pre>
+>seq39
+GGUUCCUGCAAGGGGAA
+.(((((((..))))))) -14.34 ( +0.00)
+(.((((((..))))))) -13.55 ( +0.00)
+.((((((....)))))) -13.20 ( +0.00)
+..((((((..)))))). -12.59 ( +0.00)
+(.(((((....)))))) -12.41 ( +0.00)
+(((((((...))))))) -12.15 ( +0.00)
+..((((((..).))))) -11.91 ( +0.00)
+.((((((...).))))) -11.87 ( +0.00)
+..(((((....))))). -11.45 ( +0.00)
+..(((((.(..)))))) -11.28 ( +0.00)
+..(((((...)..)))) -11.18 ( +0.00)
+..(((((.....))))) -11.11 ( +0.00)
+..((((((..))).))) -10.80 ( +0.00)
+..(((((....).)))) -10.75 ( +0.00)
+.((((((...)))))). -10.64 ( +0.00)
+(((((((..).)))))) -10.48 ( +0.00)
+
+</pre><H3><P>Thank you for using MC-Fold!</H3>
+</body>
+</html>
